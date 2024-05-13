@@ -49,6 +49,7 @@ for artist, count in number_of_songs_per_artist.items():
         number_of_single_song_artists += 1
 
 # Save to TXT file
+print("Saving artist data")
 with open('songs_per_artist.txt', 'w') as f:
     for artist, song_count in number_of_songs_per_artist.items():
         f.write(f"{artist}: {song_count} songs\n")
@@ -57,6 +58,70 @@ with open('songs_per_artist.txt', 'w') as f:
     
 print("Data saved to songs_per_artist.txt")
 print(f"Number of Single Song Artits: {number_of_single_song_artists}/{len(number_of_songs_per_artist)} artists")
+
+# Getting the difficulties for songs and adding them to a .txt file.
+print("Saving song difficulty data")
+
+song_difficulties = {}
+for i, entry in enumerate(data):
+    if i > 6 and entry != "_suggestedPrefetch":
+        songTitle = data[entry]['track']['tt']
+        if 'vl' in data[entry]['track']['in'] and data[entry]['track']['in']['vl']:
+            vocals = data[entry]['track']['in']['vl']
+        else:
+            vocals = "No data"
+
+        if 'gr' in data[entry]['track']['in'] and data[entry]['track']['in']['gr']:
+            guitar = data[entry]['track']['in']['gr']
+        else:
+            guitar = "No data"
+
+        if 'ba' in data[entry]['track']['in'] and data[entry]['track']['in']['ba']:
+            bass = data[entry]['track']['in']['ba']
+        else:
+            bass = "No data"
+
+        if 'ds' in data[entry]['track']['in'] and data[entry]['track']['in']['ds']:
+            drums = data[entry]['track']['in']['ds']
+        else:
+            drums = "No data"
+
+        song_difficulties[songTitle] = [vocals, guitar, bass, drums]
+
+hardestVl = []
+hardestGr = []
+hardestBa = []
+hardestDs = []
+for difficulties in song_difficulties:
+    value = song_difficulties[difficulties]
+    if value[0] != "No data":
+        if value[0] >= 5:
+            hardestVl.append(f"{difficulties} ({value[0]})")
+    if value[1] != "No data":
+        if value[1] >= 5:
+            hardestGr.append(f"{difficulties} ({value[1]})")
+    if value[2] != "No data":
+        if value[2] >= 5:
+            hardestBa.append(f"{difficulties} ({value[2]})")
+    if value[3] != "No data":
+        if value[3] >= 5:
+            hardestDs.append(f"{difficulties} ({value[3]})")
+
+with open('hardest_songs_per_instrument.txt', 'w') as f:
+    f.write("Vocals\n")
+    for song in hardestVl:
+        f.write(f"\t{song}\n")
+    f.write("Guitar\n")
+    for song in hardestGr:
+        f.write(f"\t{song}\n")
+    f.write("Bass\n")
+    for song in hardestBa:
+        f.write(f"\t{song}\n")
+    f.write("Drums\n")
+    for song in hardestDs:
+        f.write(f"\t{song}\n")
+
+print("Data saved to hardest_songs_per_instrument.txt")
 
 # Plotting - Pie chart for artists with more than one song
 
