@@ -48,17 +48,6 @@ for artist, count in number_of_songs_per_artist.items():
         single_song_artists[artist] = count
         number_of_single_song_artists += 1
 
-# Save to TXT file
-print("Saving artist data")
-with open('songs_per_artist.txt', 'w') as f:
-    for artist, song_count in number_of_songs_per_artist.items():
-        f.write(f"{artist}: {song_count} songs\n")
-        for songName in songs_per_artist[artist]:
-            f.write(f"\t{songName}\n")
-    
-print("Data saved to songs_per_artist.txt")
-print(f"Number of Single Song Artits: {number_of_single_song_artists}/{len(number_of_songs_per_artist)} artists")
-
 # Getting the difficulties for songs and adding them to a .txt file.
 print("Saving song difficulty data")
 
@@ -138,6 +127,18 @@ plt.pie([count for artist, count in number_of_songs_per_artist.items() if count 
 plt.title('Artists by Song Count (More than One Song)')
 plt.axis('equal')  # Equal aspect ratio ensures that pie is drawn as a circle.
 plt.show()
+
+sorted_songs_per_artist = {artist: sorted(songs, reverse=True) for artist, songs in songs_per_artist.items()}
+
+print("Saving artist data...")
+with open('songs_per_artist.txt', 'w') as f:
+    for artist, song_count in sorted(number_of_songs_per_artist.items(), key=lambda x: x[1], reverse=True):
+        f.write(f"{artist}: {song_count} songs\n")
+        for song_name in sorted_songs_per_artist[artist]:
+            f.write(f"\t{song_name}\n")
+    
+print("Data saved to songs_per_artist.txt")
+print(f"Number of Single Song Artits: {number_of_single_song_artists}/{len(number_of_songs_per_artist)} artists")
 
 # Plotting - Pie chart for song genres
 

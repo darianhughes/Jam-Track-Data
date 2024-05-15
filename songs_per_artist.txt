@@ -1,51 +1,131 @@
 Epic Games: 24 songs
-	Butter Barn Hoedown
-	OG (Future Remix)
-	Switch Up
-	Show Them Who We Are
-	Take Me Higher
-	Brace for Chaos
-	Run It
-	Flickering Flame
-	Return of the Tiger
+	You're All Mine
 	You Don't Know Me
 	Winterfest Wish
-	Make It Known
+	The Hunting Ground
+	Take Me Higher
+	Switch Up
+	Swim Free
+	Sweet Victory
 	Streets Ignite
+	Sky Surfer (Neon Rush Remix)
+	Silly Bros
+	Show Them Who We Are
+	Run It
+	Return of the Tiger
+	OG (Future Remix)
+	Make It Known
+	Flickering Flame
+	Find the Fury
+	Change
+	Butter Barn Hoedown
+	Brace for Chaos
 	Bloom
 	Best Buds
 	8-Bit Beat
-	Sweet Victory
-	The Hunting Ground
-	Swim Free
-	You're All Mine
-	Sky Surfer (Neon Rush Remix)
-	Change
-	Find the Fury
-	Silly Bros
+Lady Gaga: 9 songs
+	The Edge of Glory
+	Stupid Love
+	Rain On Me
+	Poker Face
+	Just Dance
+	Born This Way
+	Bloody Mary
+	Bad Romance
+	Applause
+The Weeknd: 6 songs
+	The Hills
+	Take My Breath
+	Save Your Tears
+	Popular 
+	Can't Feel My Face
+	Blinding Lights
 Billie Eilish: 5 songs
 	bad guy
 	all the good girls go to hell
-	Happier Than Ever - Edit
-	Oxytocin
 	Therefore I Am
-Lady Gaga: 9 songs
-	Bad Romance
-	Born This Way
-	Just Dance
-	Poker Face
-	Stupid Love
-	The Edge of Glory
-	Applause
+	Oxytocin
+	Happier Than Ever - Edit
+Doja Cat: 4 songs
+	Woman
+	Say So
+	Paint The Town Red
+	Kiss Me More
+mgk: 3 songs
+	my ex's best friend
+	emo girl
+	I Think I'm OKAY
+WitchGang: 3 songs
+	Timeless
+	Runaway
+	Nothing's Alright
+Nine Inch Nails: 3 songs
+	The Hand That Feeds
+	March Of The Pigs
+	Less Than
+Imagine Dragons: 3 songs
+	Thunder
+	Eyes Closed
+	Believer
+Olivia Rodrigo: 3 songs
+	vampire
+	good 4 u
+	get him back!
+U2: 3 songs
+	With Or Without You
+	I Still Haven't Found What I'm Looking For
+	Beautiful Day
+Green Day: 3 songs
+	When I Come Around
+	Welcome to Paradise
+	Basket Case
+blink-182: 3 songs
+	YOU DON'T KNOW WHAT YOU'VE GOT
+	What's My Age Again?
+	All The Small Things
+Twenty One Pilots: 3 songs
+	Stressed Out
+	Next Semester
+	Heathens
+WILLOW: 2 songs
+	t r a n s p a r e n t s o u l
+	emo girl
+Glass Animals: 2 songs
+	Heat Waves
+	Creatures In Heaven
+Ariana Grande: 2 songs
 	Rain On Me
-	Bloody Mary
-The Weeknd: 6 songs
-	Blinding Lights
-	Save Your Tears
-	Take My Breath
-	The Hills
-	Can't Feel My Face
-	Popular 
+	Into You
+Selena Gomez: 2 songs
+	Wolves
+	Single Soon
+Topic: 2 songs
+	Your Love (9pm)
+	Breaking Me
+A7S: 2 songs
+	Your Love (9pm)
+	Breaking Me
+Jack Harlow: 2 songs
+	WHATS POPPIN
+	Lovin On Me
+Juice WRLD: 2 songs
+	Lucid Dreams
+	Come & Go
+Marshmello: 2 songs
+	Wolves
+	Come & Go
+Travis Barker: 2 songs
+	t r a n s p a r e n t s o u l
+	I Think I'm OKAY
+Maroon 5: 2 songs
+	Moves Like Jagger
+	Maps
+Sublime: 2 songs
+	What I Got
+	Santeria
+Lil Uzi Vert: 2 songs
+	XO Tour Llif3 
+	The Way Life Goes
 Weezer: 1 songs
 	Buddy Holly
 DNCE: 1 songs
@@ -60,13 +140,6 @@ Florence: 1 songs
 	Dog Days Are Over
 The Machine: 1 songs
 	Dog Days Are Over
-mgk: 3 songs
-	emo girl
-	I Think I'm OKAY
-	my ex's best friend
-WILLOW: 2 songs
-	emo girl
-	t r a n s p a r e n t s o u l
 PSY: 1 songs
 	Gangnam Style
 Queens of the Stone Age: 1 songs
@@ -79,10 +152,6 @@ The Killers: 1 songs
 	Mr. Brightside
 Fall Out Boy: 1 songs
 	My Songs Know What You Did In The Dark (Light Em Up)
-WitchGang: 3 songs
-	Nothing's Alright
-	Timeless
-	Runaway
 LMFAO: 1 songs
 	Party Rock Anthem
 Lauren Bennett: 1 songs
@@ -95,56 +164,22 @@ The White Stripes: 1 songs
 	Seven Nation Army
 KT Tunstall: 1 songs
 	Suddenly I See
-Nine Inch Nails: 3 songs
-	The Hand That Feeds
-	March Of The Pigs
-	Less Than
 NF: 1 songs
 	The Search
-Imagine Dragons: 3 songs
-	Thunder
-	Believer
-	Eyes Closed
-Olivia Rodrigo: 3 songs
-	vampire
-	good 4 u
-	get him back!
 The Cranberries: 1 songs
 	Zombie
-U2: 3 songs
-	Beautiful Day
-	I Still Haven't Found What I'm Looking For
-	With Or Without You
 Pat Benatar: 1 songs
 	Heartbreaker
 Shawn Mendes: 1 songs
 	Stitches
-Glass Animals: 2 songs
-	Heat Waves
-	Creatures In Heaven
 Bastille: 1 songs
 	Pompeii
-Doja Cat: 4 songs
-	Say So
-	Paint The Town Red
-	Woman
-	Kiss Me More
-Green Day: 3 songs
-	When I Come Around
-	Welcome to Paradise
-	Basket Case
 Haddaway: 1 songs
 	What Is Love
-Ariana Grande: 2 songs
-	Into You
-	Rain On Me
 Elton John: 1 songs
 	Hold Me Closer
 Britney Spears: 1 songs
 	Hold Me Closer
-Selena Gomez: 2 songs
-	Single Soon
-	Wolves
 Aqua: 1 songs
 	Barbie Girl
 Miley Cyrus: 1 songs
@@ -161,18 +196,8 @@ City Spud: 1 songs
 	Ride Wit Me
 Soundgarden: 1 songs
 	Black Hole Sun
-Topic: 2 songs
-	Breaking Me
-	Your Love (9pm)
-A7S: 2 songs
-	Breaking Me
-	Your Love (9pm)
 John Legend: 1 songs
 	All Of Me (Tiësto's Birthday Treatment Remix)
-blink-182: 3 songs
-	All The Small Things
-	What's My Age Again?
-	YOU DON'T KNOW WHAT YOU'VE GOT
 The Chainsmokers: 1 songs
 	Closer
 Halsey: 1 songs
@@ -191,9 +216,6 @@ Baby Tate: 1 songs
 	Surround Sound
 Latto: 1 songs
 	Big Energy
-Jack Harlow: 2 songs
-	WHATS POPPIN
-	Lovin On Me
 Linkin Park: 1 songs
 	Numb
 Ed Sheeran: 1 songs
@@ -208,12 +230,6 @@ Disturbed: 1 songs
 	Down with the Sickness
 Gorillaz: 1 songs
 	Feel Good Inc
-Juice WRLD: 2 songs
-	Come & Go
-	Lucid Dreams
-Marshmello: 2 songs
-	Come & Go
-	Wolves
 Darude: 1 songs
 	Sandstorm
 Jimmy Eat World: 1 songs
@@ -238,9 +254,6 @@ Blue Öyster Cult: 1 songs
 	(Don't Fear) The Reaper
 YUNGBLUD: 1 songs
 	I Think I'm OKAY
-Travis Barker: 2 songs
-	I Think I'm OKAY
-	t r a n s p a r e n t s o u l
 Far East Movement: 1 songs
 	Like A G6
 The Cataracs: 1 songs
@@ -269,9 +282,6 @@ Leaders Of The New School: 1 songs
 	Scenario
 Rick James: 1 songs
 	Super Freak
-Maroon 5: 2 songs
-	Moves Like Jagger
-	Maps
 Christina Aguilera: 1 songs
 	Moves Like Jagger
 MGMT: 1 songs
@@ -284,12 +294,6 @@ Foo Fighters: 1 songs
 	Everlong
 Skee-Lo: 1 songs
 	I Wish
-Sublime: 2 songs
-	What I Got
-	Santeria
-Lil Uzi Vert: 2 songs
-	The Way Life Goes
-	XO Tour Llif3 
 Oh Wonder: 1 songs
 	The Way Life Goes
 Blur: 1 songs
@@ -356,9 +360,5 @@ System Of A Down: 1 songs
 	Toxicity
 Avenged Sevenfold: 1 songs
 	Hail To The King
-Twenty One Pilots: 3 songs
-	Heathens
-	Next Semester
-	Stressed Out
 Megan Thee Stallion: 1 songs
 	Savage
