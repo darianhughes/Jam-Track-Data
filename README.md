@@ -7,5 +7,7 @@ I have added a file that displays all the songs with difficulty 5 or 6 in their 
 ## How does it work?
 The list of all available jam tracks can be found on the public Fortnite Content API at [this link](https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/spark-tracks).
 
+I update the files every time Jam Tracks are added to the API.
+
 ## Other Information
 I am considering either making a web app or an executable that can pull up all this data and display it more nicely. If there are any other suggestions, please reach out to me.
