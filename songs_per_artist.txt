@@ -365,3 +365,11 @@ Avenged Sevenfold: 1 songs
 	Hail To The King
 Megan Thee Stallion: 1 songs
 	Savage
+Ramones: 1 songs
+	Blitzkrieg Bop
+Rob Zombie: 1 songs
+	Dragula
+Metallica: 1 songs
+	Fuel
+Rancid: 1 songs
+	Ruby Soho
