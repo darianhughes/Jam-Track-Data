@@ -52,6 +52,13 @@ The Weeknd: 6 songs
 	Popular 
 	Can't Feel My Face
 	Blinding Lights
+Ariana Grande: 6 songs
+	yes, and?
+	the boy is mine
+	positions
+	Side To Side
+	Rain On Me
+	Into You
 Doja Cat: 4 songs
 	Woman
 	Say So
@@ -99,9 +106,6 @@ WILLOW: 2 songs
 Glass Animals: 2 songs
 	Heat Waves
 	Creatures In Heaven
-Ariana Grande: 2 songs
-	Rain On Me
-	Into You
 Selena Gomez: 2 songs
 	Wolves
 	Single Soon
@@ -132,6 +136,12 @@ Sublime: 2 songs
 Lil Uzi Vert: 2 songs
 	XO Tour Llif3 
 	The Way Life Goes
+Rage Against The Machine: 2 songs
+	Killing In The Name
+	Bulls On Parade
+Nicki Minaj: 2 songs
+	Starships
+	Side To Side
 Weezer: 1 songs
 	Buddy Holly
 DNCE: 1 songs
@@ -338,8 +348,6 @@ Montell Jordan: 1 songs
 	This Is How We Do It
 Kelly Clarkson: 1 songs
 	Stronger (What Doesn't Kill You)
-Rage Against The Machine: 1 songs
-	Killing In The Name
 Sia: 1 songs
 	Cheap Thrills
 Sean Paul: 1 songs
@@ -360,8 +368,6 @@ Talent: 1 songs
 	Changes
 SZA: 1 songs
 	Kiss Me More
-Nicki Minaj: 1 songs
-	Starships
 System Of A Down: 1 songs
 	Toxicity
 Avenged Sevenfold: 1 songs
@@ -376,3 +382,7 @@ Metallica: 1 songs
 	Fuel
 Rancid: 1 songs
 	Ruby Soho
+Måneskin: 1 songs
+	Beggin'
+Don Toliver: 1 songs
+	Bandit

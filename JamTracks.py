@@ -153,7 +153,7 @@ for i, entry in enumerate(data):
             genre = data[entry]['track']['ge']
             songs_ge[song_title] = genre
 
-print(f"Number of Song With Genres: {number_of_songs_with_ge}/{number_of_songs} songs")
+print(f"Number of Songs With Genres: {number_of_songs_with_ge}/{number_of_songs} songs")
 
 # Count the occurrence of each genre
 genre_counts = {}
