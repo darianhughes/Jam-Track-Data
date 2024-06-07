@@ -100,6 +100,10 @@ Twenty One Pilots: 3 songs
 	Stressed Out
 	Next Semester
 	Heathens
+Post Malone: 3 songs
+	I Had Some Help
+	Circles
+	Better Now
 WILLOW: 2 songs
 	t r a n s p a r e n t s o u l
 	emo girl
@@ -142,6 +146,9 @@ Rage Against The Machine: 2 songs
 Nicki Minaj: 2 songs
 	Starships
 	Side To Side
+Metallica: 2 songs
+	Master of Puppets
+	Fuel
 Weezer: 1 songs
 	Buddy Holly
 DNCE: 1 songs
@@ -378,11 +385,21 @@ Ramones: 1 songs
 	Blitzkrieg Bop
 Rob Zombie: 1 songs
 	Dragula
-Metallica: 1 songs
-	Fuel
 Rancid: 1 songs
 	Ruby Soho
 Måneskin: 1 songs
 	Beggin'
 Don Toliver: 1 songs
 	Bandit
+Beastie Boys: 1 songs
+	Sabotage
+Morgan Wallen: 1 songs
+	I Had Some Help
+Pitbull: 1 songs
+	Give Me Everything
+Ne-Yo: 1 songs
+	Give Me Everything
+Afrojack: 1 songs
+	Give Me Everything
+Nayer: 1 songs
+	Give Me Everything

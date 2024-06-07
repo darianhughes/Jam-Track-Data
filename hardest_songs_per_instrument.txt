@@ -35,6 +35,7 @@ Guitar
 	Before I Forget (5)
 	Hail To The King (6)
 	Fuel (5)
+	Master of Puppets (6)
 Bass
 	i (6)
 	Welcome to Paradise (5)
@@ -43,6 +44,7 @@ Bass
 	(Don't Fear) The Reaper (5)
 	Sky Surfer (Neon Rush Remix) (5)
 	Ella Baila Sola (5)
+	Master of Puppets (6)
 Drums
 	i (5)
 	Mr. Brightside (5)
@@ -67,3 +69,4 @@ Drums
 	Next Semester (5)
 	Fire and Steel (5)
 	Beggin' (5)
+	Master of Puppets (5)
