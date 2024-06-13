@@ -1,7 +1,8 @@
-Epic Games: 27 songs
+Epic Games: 30 songs
 	You're All Mine
 	You Don't Know Me
 	Winterfest Wish
+	The Night Porter
 	The Hunting Ground
 	Take Me Higher
 	Switch Up
@@ -11,6 +12,7 @@ Epic Games: 27 songs
 	Sky Surfer (Neon Rush Remix)
 	Silly Bros
 	Show Them Who We Are
+	S.O.M.P.
 	Run It
 	Return of the Tiger
 	Pea Like Me
@@ -20,6 +22,7 @@ Epic Games: 27 songs
 	Flickering Flame
 	Fire and Steel
 	Find the Fury
+	Dreamer
 	Change
 	Butter Barn Hoedown
 	Brace for Chaos
@@ -45,6 +48,14 @@ Billie Eilish: 8 songs
 	LUNCH
 	Happier Than Ever - Edit
 	CHIHIRO
+Metallica: 7 songs
+	Wherever I May Roam
+	The Unforgiven
+	Ride the Lightning
+	One
+	Master of Puppets
+	Fuel
+	Enter Sandman
 The Weeknd: 6 songs
 	The Hills
 	Take My Breath
@@ -146,9 +157,6 @@ Rage Against The Machine: 2 songs
 Nicki Minaj: 2 songs
 	Starships
 	Side To Side
-Metallica: 2 songs
-	Master of Puppets
-	Fuel
 Weezer: 1 songs
 	Buddy Holly
 DNCE: 1 songs
@@ -403,3 +411,5 @@ Afrojack: 1 songs
 	Give Me Everything
 Nayer: 1 songs
 	Give Me Everything
+NickEh30: 1 songs
+	Never Back Down

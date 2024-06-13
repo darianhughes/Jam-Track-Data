@@ -36,6 +36,11 @@ Guitar
 	Hail To The King (6)
 	Fuel (5)
 	Master of Puppets (6)
+	Ride the Lightning (6)
+	Wherever I May Roam (5)
+	Enter Sandman (5)
+	S.O.M.P. (6)
+	One (6)
 Bass
 	i (6)
 	Welcome to Paradise (5)
@@ -45,6 +50,8 @@ Bass
 	Sky Surfer (Neon Rush Remix) (5)
 	Ella Baila Sola (5)
 	Master of Puppets (6)
+	Ride the Lightning (6)
+	One (6)
 Drums
 	i (5)
 	Mr. Brightside (5)
@@ -70,3 +77,6 @@ Drums
 	Fire and Steel (5)
 	Beggin' (5)
 	Master of Puppets (5)
+	Dreamer (6)
+	Ride the Lightning (6)
+	One (5)

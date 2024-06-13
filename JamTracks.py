@@ -14,6 +14,7 @@ if response.status_code != 200:
 
 data = response.json()
 
+list_of_songs = []
 number_of_songs_per_artist = {}
 songs_per_artist = {}
 number_of_songs = 0
@@ -22,6 +23,7 @@ for i, entry in enumerate(data):
         number_of_songs += 1
         artists = re.split(' w/ | & | ft. | + |, ', data[entry]['track']['an'])
         songTitle = data[entry]['track']['tt']
+        list_of_songs.append(songTitle)
         for artist in artists:
             if '+' in artist:
                 artists = artist.split("+")
@@ -39,6 +41,12 @@ for i, entry in enumerate(data):
             else:
                 songList = [songTitle]
                 songs_per_artist.update({artist: songList})
+
+sorted_list_of_songs = sorted(list_of_songs)
+
+with open('list_of_songs.txt', 'w') as f:
+    for song in sorted_list_of_songs:
+        f.write(f"{song}\n")
         
 # Grouping artists with only one song
 single_song_artists = {}
