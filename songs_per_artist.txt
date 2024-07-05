@@ -29,6 +29,18 @@ Epic Games: 30 songs
 	Bloom
 	Best Buds
 	8-Bit Beat
+Metallica: 11 songs
+	Wherever I May Roam
+	The Unforgiven
+	Seek & Destroy
+	Ride the Lightning
+	One
+	Nothing Else Matters
+	Master of Puppets
+	Lux Æterna
+	Fuel
+	For Whom The Bell Tolls
+	Enter Sandman
 Lady Gaga: 9 songs
 	The Edge of Glory
 	Stupid Love
@@ -48,14 +60,6 @@ Billie Eilish: 8 songs
 	LUNCH
 	Happier Than Ever - Edit
 	CHIHIRO
-Metallica: 7 songs
-	Wherever I May Roam
-	The Unforgiven
-	Ride the Lightning
-	One
-	Master of Puppets
-	Fuel
-	Enter Sandman
 The Weeknd: 6 songs
 	The Hills
 	Take My Breath
@@ -79,6 +83,10 @@ mgk: 3 songs
 	my ex's best friend
 	emo girl
 	I Think I'm OKAY
+Kendrick Lamar: 3 songs
+	i
+	HUMBLE.
+	All The Stars
 WitchGang: 3 songs
 	Timeless
 	Runaway
@@ -118,6 +126,9 @@ Post Malone: 3 songs
 WILLOW: 2 songs
 	t r a n s p a r e n t s o u l
 	emo girl
+LMFAO: 2 songs
+	Sexy And I Know It
+	Party Rock Anthem
 Glass Animals: 2 songs
 	Heat Waves
 	Creatures In Heaven
@@ -154,6 +165,9 @@ Lil Uzi Vert: 2 songs
 Rage Against The Machine: 2 songs
 	Killing In The Name
 	Bulls On Parade
+SZA: 2 songs
+	Kiss Me More
+	All The Stars
 Nicki Minaj: 2 songs
 	Starships
 	Side To Side
@@ -177,14 +191,10 @@ Queens of the Stone Age: 1 songs
 	Go With The Flow
 Greta Van Fleet: 1 songs
 	Highway Tune
-Kendrick Lamar: 1 songs
-	i
 The Killers: 1 songs
 	Mr. Brightside
 Fall Out Boy: 1 songs
 	My Songs Know What You Did In The Dark (Light Em Up)
-LMFAO: 1 songs
-	Party Rock Anthem
 Lauren Bennett: 1 songs
 	Party Rock Anthem
 GoonRock: 1 songs
@@ -381,8 +391,6 @@ Evanescence: 1 songs
 	Changes
 Talent: 1 songs
 	Changes
-SZA: 1 songs
-	Kiss Me More
 System Of A Down: 1 songs
 	Toxicity
 Avenged Sevenfold: 1 songs
@@ -413,3 +421,19 @@ Nayer: 1 songs
 	Give Me Everything
 NickEh30: 1 songs
 	Never Back Down
+Lil Mosey: 1 songs
+	Blueberry Faygo
+Vengaboys: 1 songs
+	We Like To Party! (The Vengabus)
+Justin Timberlake: 1 songs
+	Can't Stop The Feeling!
+Bruno Mars: 1 songs
+	24K Magic
+Bad Bunny and Jhayco: 1 songs
+	DÁKITI
+Hozier: 1 songs
+	Too Sweet
+Gwen Stefani: 1 songs
+	Hollaback Girl
+BTS: 1 songs
+	Dynamite

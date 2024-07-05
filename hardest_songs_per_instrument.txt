@@ -41,6 +41,8 @@ Guitar
 	Enter Sandman (5)
 	S.O.M.P. (6)
 	One (6)
+	Seek & Destroy (6)
+	Lux Æterna (5)
 Bass
 	i (6)
 	Welcome to Paradise (5)
@@ -52,6 +54,7 @@ Bass
 	Master of Puppets (6)
 	Ride the Lightning (6)
 	One (6)
+	Seek & Destroy (5)
 Drums
 	i (5)
 	Mr. Brightside (5)
@@ -80,3 +83,4 @@ Drums
 	Dreamer (6)
 	Ride the Lightning (6)
 	One (5)
+	Lux Æterna (5)
