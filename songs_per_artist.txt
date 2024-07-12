@@ -165,12 +165,18 @@ Lil Uzi Vert: 2 songs
 Rage Against The Machine: 2 songs
 	Killing In The Name
 	Bulls On Parade
+Sean Paul: 2 songs
+	Gimme The Light
+	Cheap Thrills
 SZA: 2 songs
 	Kiss Me More
 	All The Stars
 Nicki Minaj: 2 songs
 	Starships
 	Side To Side
+Bruno Mars: 2 songs
+	Uptown Funk
+	24K Magic
 Weezer: 1 songs
 	Buddy Holly
 DNCE: 1 songs
@@ -375,8 +381,6 @@ Kelly Clarkson: 1 songs
 	Stronger (What Doesn't Kill You)
 Sia: 1 songs
 	Cheap Thrills
-Sean Paul: 1 songs
-	Cheap Thrills
 Nirvana: 1 songs
 	Breed
 John Williams: 1 songs
@@ -427,8 +431,6 @@ Vengaboys: 1 songs
 	We Like To Party! (The Vengabus)
 Justin Timberlake: 1 songs
 	Can't Stop The Feeling!
-Bruno Mars: 1 songs
-	24K Magic
 Bad Bunny and Jhayco: 1 songs
 	DÁKITI
 Hozier: 1 songs
@@ -437,3 +439,9 @@ Gwen Stefani: 1 songs
 	Hollaback Girl
 BTS: 1 songs
 	Dynamite
+Avicii: 1 songs
+	Hey Brother
+Mark Ronson: 1 songs
+	Uptown Funk
+Bad Bunny: 1 songs
+	Tití Me Preguntó
