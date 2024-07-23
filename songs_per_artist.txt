@@ -1,4 +1,4 @@
-Epic Games: 30 songs
+Epic Games: 32 songs
 	You're All Mine
 	You Don't Know Me
 	Winterfest Wish
@@ -19,6 +19,7 @@ Epic Games: 30 songs
 	OG (Future Remix)
 	Make It Known
 	Lord of the Wasteland
+	Inferno Island (Molten Mix)
 	Flickering Flame
 	Fire and Steel
 	Find the Fury
@@ -26,6 +27,7 @@ Epic Games: 30 songs
 	Change
 	Butter Barn Hoedown
 	Brace for Chaos
+	Bouncin' Back
 	Bloom
 	Best Buds
 	8-Bit Beat
@@ -79,6 +81,11 @@ Doja Cat: 4 songs
 	Say So
 	Paint The Town Red
 	Kiss Me More
+Green Day: 4 songs
+	When I Come Around
+	Welcome to Paradise
+	Holiday
+	Basket Case
 mgk: 3 songs
 	my ex's best friend
 	emo girl
@@ -107,10 +114,6 @@ U2: 3 songs
 	With Or Without You
 	I Still Haven't Found What I'm Looking For
 	Beautiful Day
-Green Day: 3 songs
-	When I Come Around
-	Welcome to Paradise
-	Basket Case
 blink-182: 3 songs
 	YOU DON'T KNOW WHAT YOU'VE GOT
 	What's My Age Again?
@@ -129,6 +132,9 @@ WILLOW: 2 songs
 LMFAO: 2 songs
 	Sexy And I Know It
 	Party Rock Anthem
+NF: 2 songs
+	The Search
+	Let You Down
 Glass Animals: 2 songs
 	Heat Waves
 	Creatures In Heaven
@@ -177,6 +183,9 @@ Nicki Minaj: 2 songs
 Bruno Mars: 2 songs
 	Uptown Funk
 	24K Magic
+BTS: 2 songs
+	Dynamite
+	Butter
 Weezer: 1 songs
 	Buddy Holly
 DNCE: 1 songs
@@ -211,8 +220,6 @@ The White Stripes: 1 songs
 	Seven Nation Army
 KT Tunstall: 1 songs
 	Suddenly I See
-NF: 1 songs
-	The Search
 The Cranberries: 1 songs
 	Zombie
 Pat Benatar: 1 songs
@@ -437,11 +444,15 @@ Hozier: 1 songs
 	Too Sweet
 Gwen Stefani: 1 songs
 	Hollaback Girl
-BTS: 1 songs
-	Dynamite
 Avicii: 1 songs
 	Hey Brother
 Mark Ronson: 1 songs
 	Uptown Funk
 Bad Bunny: 1 songs
 	Tití Me Preguntó
+GAYLE: 1 songs
+	abcdefu
+NLE Choppa: 1 songs
+	Walk Em Down
+Roddy Ricch: 1 songs
+	Walk Em Down
