@@ -1,9 +1,11 @@
-Epic Games: 32 songs
+Epic Games: 39 songs
 	You're All Mine
 	You Don't Know Me
 	Winterfest Wish
+	Way Too Fast
 	The Night Porter
 	The Hunting Ground
+	The Claw
 	Take Me Higher
 	Switch Up
 	Swim Free
@@ -16,13 +18,18 @@ Epic Games: 32 songs
 	Run It
 	Return of the Tiger
 	Pea Like Me
+	Orbital Overload
 	OG (Future Remix)
 	Make It Known
 	Lord of the Wasteland
+	Keep Poppin
 	Inferno Island (Molten Mix)
+	Gwenpool's Multiverse
+	For Latveria
 	Flickering Flame
 	Fire and Steel
 	Find the Fury
+	Everybody Falls (Chill Mix)
 	Dreamer
 	Change
 	Butter Barn Hoedown
@@ -31,10 +38,11 @@ Epic Games: 32 songs
 	Bloom
 	Best Buds
 	8-Bit Beat
-Metallica: 11 songs
+Metallica: 14 songs
 	Wherever I May Roam
 	The Unforgiven
 	Seek & Destroy
+	Sad But True
 	Ride the Lightning
 	One
 	Nothing Else Matters
@@ -42,7 +50,9 @@ Metallica: 11 songs
 	Lux Æterna
 	Fuel
 	For Whom The Bell Tolls
+	Fade to Black
 	Enter Sandman
+	Battery
 Lady Gaga: 9 songs
 	The Edge of Glory
 	Stupid Love
@@ -126,6 +136,14 @@ Post Malone: 3 songs
 	I Had Some Help
 	Circles
 	Better Now
+Guns N' Roses: 3 songs
+	Welcome To The Jungle
+	Sweet Child O' Mine
+	Paradise City
+Karol G: 3 songs
+	QLONA
+	OKI DOKI
+	CAIRO
 WILLOW: 2 songs
 	t r a n s p a r e n t s o u l
 	emo girl
@@ -168,24 +186,36 @@ Sublime: 2 songs
 Lil Uzi Vert: 2 songs
 	XO Tour Llif3 
 	The Way Life Goes
+Peso Pluma: 2 songs
+	QLONA
+	Ella Baila Sola
 Rage Against The Machine: 2 songs
 	Killing In The Name
 	Bulls On Parade
 Sean Paul: 2 songs
 	Gimme The Light
 	Cheap Thrills
+Slipknot: 2 songs
+	Unsainted
+	Before I Forget
 SZA: 2 songs
 	Kiss Me More
 	All The Stars
 Nicki Minaj: 2 songs
 	Starships
 	Side To Side
+Afrojack: 2 songs
+	Take Over Control
+	Give Me Everything
 Bruno Mars: 2 songs
 	Uptown Funk
 	24K Magic
 BTS: 2 songs
 	Dynamite
 	Butter
+Avicii: 2 songs
+	The Nights
+	Hey Brother
 Weezer: 1 songs
 	Buddy Holly
 DNCE: 1 songs
@@ -358,8 +388,6 @@ Bleachers: 1 songs
 	I Wanna Get Better
 Eslabon Armado: 1 songs
 	Ella Baila Sola
-Peso Pluma: 1 songs
-	Ella Baila Sola
 PinkPantheress: 1 songs
 	Boy's A Liar Pt. 2
 Ice Spice: 1 songs
@@ -394,8 +422,6 @@ John Williams: 1 songs
 	Cantina Band
 London Symphony Orchestra: 1 songs
 	Cantina Band
-Slipknot: 1 songs
-	Before I Forget
 Evanescence: 1 songs
 	Bring Me To Life
 2Pac: 1 songs
@@ -426,8 +452,6 @@ Pitbull: 1 songs
 	Give Me Everything
 Ne-Yo: 1 songs
 	Give Me Everything
-Afrojack: 1 songs
-	Give Me Everything
 Nayer: 1 songs
 	Give Me Everything
 NickEh30: 1 songs
@@ -444,8 +468,6 @@ Hozier: 1 songs
 	Too Sweet
 Gwen Stefani: 1 songs
 	Hollaback Girl
-Avicii: 1 songs
-	Hey Brother
 Mark Ronson: 1 songs
 	Uptown Funk
 Bad Bunny: 1 songs
@@ -456,3 +478,25 @@ NLE Choppa: 1 songs
 	Walk Em Down
 Roddy Ricch: 1 songs
 	Walk Em Down
+Thin Lizzy: 1 songs
+	The Boys Are Back In Town
+Europe: 1 songs
+	The Final Countdown
+Alice In Chains: 1 songs
+	Would?
+Cage The Elephant: 1 songs
+	Ain't No Rest For The Wicked
+Rae Sremmurd: 1 songs
+	Black Beatles
+Gucci Mane: 1 songs
+	Black Beatles
+Kid Cudi: 1 songs
+	Day 'N' Nite
+Desiigner: 1 songs
+	Panda
+Eva Simmons: 1 songs
+	Take Over Control
+Ovy On The Drums: 1 songs
+	CAIRO
+Ava Max: 1 songs
+	My Oh My
