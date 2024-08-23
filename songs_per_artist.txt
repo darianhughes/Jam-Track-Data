@@ -86,6 +86,12 @@ Ariana Grande: 6 songs
 	Side To Side
 	Rain On Me
 	Into You
+Karol G: 5 songs
+	Tusa
+	QLONA
+	PROVENZA (REMIX)
+	OKI DOKI
+	CAIRO
 Doja Cat: 4 songs
 	Woman
 	Say So
@@ -128,6 +134,10 @@ blink-182: 3 songs
 	YOU DON'T KNOW WHAT YOU'VE GOT
 	What's My Age Again?
 	All The Small Things
+Nicki Minaj: 3 songs
+	Tusa
+	Starships
+	Side To Side
 Twenty One Pilots: 3 songs
 	Stressed Out
 	Next Semester
@@ -140,10 +150,6 @@ Guns N' Roses: 3 songs
 	Welcome To The Jungle
 	Sweet Child O' Mine
 	Paradise City
-Karol G: 3 songs
-	QLONA
-	OKI DOKI
-	CAIRO
 WILLOW: 2 songs
 	t r a n s p a r e n t s o u l
 	emo girl
@@ -201,9 +207,6 @@ Slipknot: 2 songs
 SZA: 2 songs
 	Kiss Me More
 	All The Stars
-Nicki Minaj: 2 songs
-	Starships
-	Side To Side
 Afrojack: 2 songs
 	Take Over Control
 	Give Me Everything
@@ -500,3 +503,11 @@ Ovy On The Drums: 1 songs
 	CAIRO
 Ava Max: 1 songs
 	My Oh My
+Iyaz: 1 songs
+	Replay
+Noah Kahan: 1 songs
+	Stick Season
+Sabrina Carpenter: 1 songs
+	Espresso
+Tiësto: 1 songs
+	PROVENZA (REMIX)

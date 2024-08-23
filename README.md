@@ -2,7 +2,12 @@
 This repository has code that generates and displays Jam Track data, primarily on how many songs there are per artist in FNFestival and the number of songs per genre.
 
 ## New:
-I have added a file that displays all the songs with difficulty 5 or 6 in their respective instruments.
+Added a list of songs.
+
+I added the functionality to view what songs are new this week.
+
+## Changes:
+The songs per artist pie charts only show artists with 3 or more songs now.
 
 ## How does it work?
 The list of all available jam tracks can be found on the public Fortnite Content API at [this link](https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/spark-tracks).
