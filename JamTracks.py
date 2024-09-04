@@ -47,10 +47,14 @@ sorted_list_of_songs = sorted(list_of_songs)
 # Check if an existing list_of_songs file exists
 existing_songs = []
 with open('list_of_songs.txt', 'r') as f:
-    existing_songs = [line.strip() for line in f.readlines()]
+     existing_songs = [line.strip() for line in f.readlines()]
 
 # Identify new songs by comparing with existing songs
-new_songs = [song for song in sorted_list_of_songs if song not in existing_songs]
+
+new_songs = []
+for song in sorted_list_of_songs:
+    if song.strip() not in existing_songs:
+        new_songs.append(song)
 
 # Write the sorted list of songs to the list_of_songs.txt file
 with open('list_of_songs.txt', 'w') as f:
@@ -59,6 +63,9 @@ with open('list_of_songs.txt', 'w') as f:
 
 # Write new songs to a new_songs.txt file
 if new_songs:
+    print("New Songs Detected:")
+    for song in new_songs:
+        print(song)
     with open('new_songs.txt', 'w') as f:
         for song in new_songs:
             f.write(f"{song}\n")
@@ -158,7 +165,8 @@ sorted_songs_per_artist = {artist: sorted(songs, reverse=True) for artist, songs
 print("Saving artist data...")
 with open('songs_per_artist.txt', 'w') as f:
     for artist, song_count in sorted(number_of_songs_per_artist.items(), key=lambda x: x[1], reverse=True):
-        f.write(f"{artist}: {song_count} songs\n")
+        song_percent = round(((song_count/number_of_songs) * 100), 2)
+        f.write(f"{artist}: {song_count} song(s) ({song_percent}%)\n")
         for song_name in sorted_songs_per_artist[artist]:
             f.write(f"\t{song_name}\n")
     

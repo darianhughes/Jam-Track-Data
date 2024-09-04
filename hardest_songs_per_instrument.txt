@@ -22,6 +22,7 @@ Vocals
 	Let You Down (5)
 	Panda (5)
 	Tusa (5)
+	I'm a Winner (5)
 Guitar
 	Highway Tune (5)
 	Welcome to Paradise (5)
@@ -59,6 +60,7 @@ Guitar
 	Keep Poppin (5)
 	Orbital Overload (5)
 	For Latveria (6)
+	Beyond the Flame (6)
 Bass
 	i (6)
 	Welcome to Paradise (5)
@@ -104,3 +106,4 @@ Drums
 	Unsainted (6)
 	Battery (6)
 	Fade to Black (5)
+	Beyond the Flame (6)
