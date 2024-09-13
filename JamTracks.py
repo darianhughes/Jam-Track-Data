@@ -5,6 +5,18 @@
 import requests
 import matplotlib.pyplot as plt
 import re
+from datetime import datetime, timedelta
+
+def is_within_five_days(input_date):
+    # Parse the input date string in ISO 8601 format
+    input_date = datetime.strptime(input_date, '%Y-%m-%dT%H:%M:%S.%fZ')
+    today = datetime.now()
+    
+    # Calculate the difference in days
+    difference = abs((today - input_date).days)
+    
+    # Check if the difference is within 5 days
+    return difference <= 5
 
 response = requests.get("https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/spark-tracks")
 
@@ -15,6 +27,7 @@ if response.status_code != 200:
 data = response.json()
 
 list_of_songs = []
+date_of_song = {}
 number_of_songs_per_artist = {}
 songs_per_artist = {}
 number_of_songs = 0
@@ -23,6 +36,8 @@ for i, entry in enumerate(data):
         number_of_songs += 1
         artists = re.split(' w/ | & | ft. | + |, ', data[entry]['track']['an'])
         songTitle = data[entry]['track']['tt']
+        songDate = data[entry]['lastModified']
+        date_of_song.update({songTitle: songDate})
         list_of_songs.append(songTitle)
         for artist in artists:
             if '+' in artist:
@@ -44,33 +59,20 @@ for i, entry in enumerate(data):
 
 sorted_list_of_songs = sorted(list_of_songs)
 
-# Check if an existing list_of_songs file exists
-existing_songs = []
-with open('list_of_songs.txt', 'r') as f:
-     existing_songs = [line.strip() for line in f.readlines()]
-
-# Identify new songs by comparing with existing songs
-
-new_songs = []
-for song in sorted_list_of_songs:
-    if song.strip() not in existing_songs:
-        new_songs.append(song)
-
 # Write the sorted list of songs to the list_of_songs.txt file
 with open('list_of_songs.txt', 'w') as f:
     for song in sorted_list_of_songs:
         f.write(f"{song}\n")
 
 # Write new songs to a new_songs.txt file
-if new_songs:
-    print("New Songs Detected:")
-    for song in new_songs:
-        print(song)
-    with open('new_songs.txt', 'w') as f:
-        for song in new_songs:
+with open('new_songs.txt', 'w') as f:
+    print('New songs from the past 5 days:')
+    for song, modified_date in date_of_song.items():
+        if is_within_five_days(modified_date):
+            print(song)
             f.write(f"{song}\n")
-else:
-    print("No new songs found.")
+
+print("Songs have been written to list_of_songs.txt and new_songs.txt.")
         
 # Grouping artists with 2 or less songs
 single_song_artists = {}
