@@ -36,7 +36,7 @@ for i, entry in enumerate(data):
         number_of_songs += 1
         artists = re.split(' w/ | & | ft. | + |, ', data[entry]['track']['an'])
         songTitle = data[entry]['track']['tt']
-        songDate = data[entry]['lastModified']
+        songDate = data[entry]['_activeDate']
         date_of_song.update({songTitle: songDate})
         list_of_songs.append(songTitle)
         for artist in artists:
