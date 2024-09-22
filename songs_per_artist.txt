@@ -1,4 +1,4 @@
-Epic Games: 42 song(s) (14.74%)
+Epic Games: 42 song(s) (14.69%)
 	You're All Mine
 	You Don't Know Me
 	Winterfest Wish
@@ -41,7 +41,7 @@ Epic Games: 42 song(s) (14.74%)
 	Beyond the Flame
 	Best Buds
 	8-Bit Beat
-Metallica: 14 song(s) (4.91%)
+Metallica: 14 song(s) (4.9%)
 	Wherever I May Roam
 	The Unforgiven
 	Seek & Destroy
@@ -56,7 +56,7 @@ Metallica: 14 song(s) (4.91%)
 	Fade to Black
 	Enter Sandman
 	Battery
-Lady Gaga: 9 song(s) (3.16%)
+Lady Gaga: 9 song(s) (3.15%)
 	The Edge of Glory
 	Stupid Love
 	Rain On Me
@@ -66,7 +66,7 @@ Lady Gaga: 9 song(s) (3.16%)
 	Bloody Mary
 	Bad Romance
 	Applause
-Billie Eilish: 8 song(s) (2.81%)
+Billie Eilish: 8 song(s) (2.8%)
 	bad guy
 	all the good girls go to hell
 	Therefore I Am
@@ -75,21 +75,21 @@ Billie Eilish: 8 song(s) (2.81%)
 	LUNCH
 	Happier Than Ever - Edit
 	CHIHIRO
-The Weeknd: 6 song(s) (2.11%)
+The Weeknd: 6 song(s) (2.1%)
 	The Hills
 	Take My Breath
 	Save Your Tears
 	Popular 
 	Can't Feel My Face
 	Blinding Lights
-Green Day: 6 song(s) (2.11%)
+Green Day: 6 song(s) (2.1%)
 	When I Come Around
 	Welcome to Paradise
 	Holiday
 	Boulevard of Broken Dreams
 	Basket Case
 	American Idiot
-Ariana Grande: 6 song(s) (2.11%)
+Ariana Grande: 6 song(s) (2.1%)
 	yes, and?
 	the boy is mine
 	positions
@@ -540,3 +540,9 @@ Chappell Roan: 1 song(s) (0.35%)
 	HOT TO GO!
 Justin Bieber: 1 song(s) (0.35%)
 	What Do You Mean?
+Earth: 1 song(s) (0.35%)
+	September
+Wind: 1 song(s) (0.35%)
+	September
+Fire: 1 song(s) (0.35%)
+	September
