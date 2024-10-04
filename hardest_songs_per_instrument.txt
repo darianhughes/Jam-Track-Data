@@ -52,6 +52,7 @@ Guitar
 	One (6)
 	Seek & Destroy (6)
 	Lux Æterna (5)
+	Dynamite (5)
 	The Final Countdown (5)
 	Battery (6)
 	Sad But True (5)
@@ -109,3 +110,4 @@ Drums
 	Battery (6)
 	Fade to Black (5)
 	Beyond the Flame (6)
+	Pump Up The Jam (5)
