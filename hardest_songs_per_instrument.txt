@@ -64,6 +64,7 @@ Guitar
 	Orbital Overload (5)
 	For Latveria (6)
 	Beyond the Flame (6)
+	Fell On Black Days (5)
 Bass
 	i (6)
 	Welcome to Paradise (5)
@@ -111,3 +112,5 @@ Drums
 	Fade to Black (5)
 	Beyond the Flame (6)
 	Pump Up The Jam (5)
+	Tropical Heat (5)
+	Inferno Island (5)

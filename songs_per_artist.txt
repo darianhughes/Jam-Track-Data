@@ -1,8 +1,9 @@
-Epic Games: 42 song(s) (14.38%)
+Epic Games: 48 song(s) (15.84%)
 	You're All Mine
 	You Don't Know Me
 	Winterfest Wish
 	Way Too Fast
+	Tropical Heat
 	The Night Porter
 	The Hunting Ground
 	The Claw
@@ -12,6 +13,7 @@ Epic Games: 42 song(s) (14.38%)
 	Sweet Victory
 	Streets Ignite
 	Sky Surfer (Neon Rush Remix)
+	Sizzlin' Sunshine
 	Silly Bros
 	Show Them Who We Are
 	Say It Proud
@@ -19,12 +21,16 @@ Epic Games: 42 song(s) (14.38%)
 	Run It
 	Return of the Tiger
 	Pea Like Me
+	Paradise Pulse
 	Orbital Overload
+	Ocean Breeze Beats
 	OG (Future Remix)
+	Nightmare's Choice
 	Make It Known
 	Lord of the Wasteland
 	Keep Poppin
 	Inferno Island (Molten Mix)
+	Inferno Island
 	I'm a Winner
 	Gwenpool's Multiverse
 	For Latveria
@@ -41,7 +47,7 @@ Epic Games: 42 song(s) (14.38%)
 	Beyond the Flame
 	Best Buds
 	8-Bit Beat
-Metallica: 14 song(s) (4.79%)
+Metallica: 14 song(s) (4.62%)
 	Wherever I May Roam
 	The Unforgiven
 	Seek & Destroy
@@ -56,7 +62,17 @@ Metallica: 14 song(s) (4.79%)
 	Fade to Black
 	Enter Sandman
 	Battery
-Lady Gaga: 9 song(s) (3.08%)
+Billie Eilish: 9 song(s) (2.97%)
+	bury a friend
+	bad guy
+	all the good girls go to hell
+	Therefore I Am
+	THE DINER
+	Oxytocin
+	LUNCH
+	Happier Than Ever - Edit
+	CHIHIRO
+Lady Gaga: 9 song(s) (2.97%)
 	The Edge of Glory
 	Stupid Love
 	Rain On Me
@@ -66,493 +82,489 @@ Lady Gaga: 9 song(s) (3.08%)
 	Bloody Mary
 	Bad Romance
 	Applause
-Billie Eilish: 8 song(s) (2.74%)
-	bad guy
-	all the good girls go to hell
-	Therefore I Am
-	THE DINER
-	Oxytocin
-	LUNCH
-	Happier Than Ever - Edit
-	CHIHIRO
-The Weeknd: 6 song(s) (2.05%)
+The Weeknd: 6 song(s) (1.98%)
 	The Hills
 	Take My Breath
 	Save Your Tears
 	Popular 
 	Can't Feel My Face
 	Blinding Lights
-Green Day: 6 song(s) (2.05%)
+Green Day: 6 song(s) (1.98%)
 	When I Come Around
 	Welcome to Paradise
 	Holiday
 	Boulevard of Broken Dreams
 	Basket Case
 	American Idiot
-Ariana Grande: 6 song(s) (2.05%)
+Ariana Grande: 6 song(s) (1.98%)
 	yes, and?
 	the boy is mine
 	positions
 	Side To Side
 	Rain On Me
 	Into You
-Karol G: 5 song(s) (1.71%)
+Karol G: 5 song(s) (1.65%)
 	Tusa
 	QLONA
 	PROVENZA (REMIX)
 	OKI DOKI
 	CAIRO
-Doja Cat: 4 song(s) (1.37%)
+Doja Cat: 4 song(s) (1.32%)
 	Woman
 	Say So
 	Paint The Town Red
 	Kiss Me More
-mgk: 3 song(s) (1.03%)
+Weezer: 3 song(s) (0.99%)
+	Undone - The Sweater Song
+	Say It Ain't So
+	Buddy Holly
+mgk: 3 song(s) (0.99%)
 	my ex's best friend
 	emo girl
 	I Think I'm OKAY
-Kendrick Lamar: 3 song(s) (1.03%)
+Kendrick Lamar: 3 song(s) (0.99%)
 	i
 	HUMBLE.
 	All The Stars
-WitchGang: 3 song(s) (1.03%)
+WitchGang: 3 song(s) (0.99%)
 	Timeless
 	Runaway
 	Nothing's Alright
-Nine Inch Nails: 3 song(s) (1.03%)
+Nine Inch Nails: 3 song(s) (0.99%)
 	The Hand That Feeds
 	March Of The Pigs
 	Less Than
-Imagine Dragons: 3 song(s) (1.03%)
+Imagine Dragons: 3 song(s) (0.99%)
 	Thunder
 	Eyes Closed
 	Believer
-Olivia Rodrigo: 3 song(s) (1.03%)
+Olivia Rodrigo: 3 song(s) (0.99%)
 	vampire
 	good 4 u
 	get him back!
-U2: 3 song(s) (1.03%)
+U2: 3 song(s) (0.99%)
 	With Or Without You
 	I Still Haven't Found What I'm Looking For
 	Beautiful Day
-blink-182: 3 song(s) (1.03%)
+blink-182: 3 song(s) (0.99%)
 	YOU DON'T KNOW WHAT YOU'VE GOT
 	What's My Age Again?
 	All The Small Things
-Nicki Minaj: 3 song(s) (1.03%)
+Nicki Minaj: 3 song(s) (0.99%)
 	Tusa
 	Starships
 	Side To Side
-Twenty One Pilots: 3 song(s) (1.03%)
+Twenty One Pilots: 3 song(s) (0.99%)
 	Stressed Out
 	Next Semester
 	Heathens
-Post Malone: 3 song(s) (1.03%)
+Post Malone: 3 song(s) (0.99%)
 	I Had Some Help
 	Circles
 	Better Now
-Guns N' Roses: 3 song(s) (1.03%)
+Guns N' Roses: 3 song(s) (0.99%)
 	Welcome To The Jungle
 	Sweet Child O' Mine
 	Paradise City
-The Notorious B.I.G.: 3 song(s) (1.03%)
+The Notorious B.I.G.: 3 song(s) (0.99%)
 	Notorious Thugs
 	Juicy
 	Big Poppa
-WILLOW: 2 song(s) (0.68%)
+WILLOW: 2 song(s) (0.66%)
 	t r a n s p a r e n t s o u l
 	emo girl
-LMFAO: 2 song(s) (0.68%)
+LMFAO: 2 song(s) (0.66%)
 	Sexy And I Know It
 	Party Rock Anthem
-NF: 2 song(s) (0.68%)
+NF: 2 song(s) (0.66%)
 	The Search
 	Let You Down
-Glass Animals: 2 song(s) (0.68%)
+Glass Animals: 2 song(s) (0.66%)
 	Heat Waves
 	Creatures In Heaven
-Britney Spears: 2 song(s) (0.68%)
+Britney Spears: 2 song(s) (0.66%)
 	Toxic
 	Hold Me Closer
-Selena Gomez: 2 song(s) (0.68%)
+Selena Gomez: 2 song(s) (0.66%)
 	Wolves
 	Single Soon
-Topic: 2 song(s) (0.68%)
+Soundgarden: 2 song(s) (0.66%)
+	Fell On Black Days
+	Black Hole Sun
+Topic: 2 song(s) (0.66%)
 	Your Love (9pm)
 	Breaking Me
-A7S: 2 song(s) (0.68%)
+A7S: 2 song(s) (0.66%)
 	Your Love (9pm)
 	Breaking Me
-The Chainsmokers: 2 song(s) (0.68%)
+The Chainsmokers: 2 song(s) (0.66%)
 	Don't Let Me Down
 	Closer
-Jack Harlow: 2 song(s) (0.68%)
+Jack Harlow: 2 song(s) (0.66%)
 	WHATS POPPIN
 	Lovin On Me
-Linkin Park: 2 song(s) (0.68%)
+Linkin Park: 2 song(s) (0.66%)
 	Numb
 	In The End
-Juice WRLD: 2 song(s) (0.68%)
+Juice WRLD: 2 song(s) (0.66%)
 	Lucid Dreams
 	Come & Go
-Marshmello: 2 song(s) (0.68%)
+Marshmello: 2 song(s) (0.66%)
 	Wolves
 	Come & Go
-Travis Barker: 2 song(s) (0.68%)
+Travis Barker: 2 song(s) (0.66%)
 	t r a n s p a r e n t s o u l
 	I Think I'm OKAY
-Maroon 5: 2 song(s) (0.68%)
+Maroon 5: 2 song(s) (0.66%)
 	Moves Like Jagger
 	Maps
-Christina Aguilera: 2 song(s) (0.68%)
+Christina Aguilera: 2 song(s) (0.66%)
 	Moves Like Jagger
 	Fighter
-Sublime: 2 song(s) (0.68%)
+Sublime: 2 song(s) (0.66%)
 	What I Got
 	Santeria
-Lil Uzi Vert: 2 song(s) (0.68%)
+Lil Uzi Vert: 2 song(s) (0.66%)
 	XO Tour Llif3 
 	The Way Life Goes
-Peso Pluma: 2 song(s) (0.68%)
+Peso Pluma: 2 song(s) (0.66%)
 	QLONA
 	Ella Baila Sola
-Rage Against The Machine: 2 song(s) (0.68%)
+Rage Against The Machine: 2 song(s) (0.66%)
 	Killing In The Name
 	Bulls On Parade
-Sean Paul: 2 song(s) (0.68%)
+Sean Paul: 2 song(s) (0.66%)
 	Gimme The Light
 	Cheap Thrills
-Slipknot: 2 song(s) (0.68%)
+Slipknot: 2 song(s) (0.66%)
 	Unsainted
 	Before I Forget
-SZA: 2 song(s) (0.68%)
+SZA: 2 song(s) (0.66%)
 	Kiss Me More
 	All The Stars
-Afrojack: 2 song(s) (0.68%)
+Afrojack: 2 song(s) (0.66%)
 	Take Over Control
 	Give Me Everything
-Justin Timberlake: 2 song(s) (0.68%)
+Justin Timberlake: 2 song(s) (0.66%)
 	SexyBack
 	Can't Stop The Feeling!
-Bruno Mars: 2 song(s) (0.68%)
+Bruno Mars: 2 song(s) (0.66%)
 	Uptown Funk
 	24K Magic
-BTS: 2 song(s) (0.68%)
+BTS: 2 song(s) (0.66%)
 	Dynamite
 	Butter
-Avicii: 2 song(s) (0.68%)
+Avicii: 2 song(s) (0.66%)
 	The Nights
 	Hey Brother
-Tiësto: 2 song(s) (0.68%)
+Tiësto: 2 song(s) (0.66%)
 	The Business
 	PROVENZA (REMIX)
-Weezer: 1 song(s) (0.34%)
-	Buddy Holly
-DNCE: 1 song(s) (0.34%)
+DNCE: 1 song(s) (0.33%)
 	Cake By The Ocean
-OneRepublic: 1 song(s) (0.34%)
+OneRepublic: 1 song(s) (0.33%)
 	Counting Stars
-Sub Urban: 1 song(s) (0.34%)
+Sub Urban: 1 song(s) (0.33%)
 	Cradles
-The All-American Rejects: 1 song(s) (0.34%)
+The All-American Rejects: 1 song(s) (0.33%)
 	Dirty Little Secret
-Florence: 1 song(s) (0.34%)
+Florence: 1 song(s) (0.33%)
 	Dog Days Are Over
-The Machine: 1 song(s) (0.34%)
+The Machine: 1 song(s) (0.33%)
 	Dog Days Are Over
-PSY: 1 song(s) (0.34%)
+PSY: 1 song(s) (0.33%)
 	Gangnam Style
-Queens of the Stone Age: 1 song(s) (0.34%)
+Queens of the Stone Age: 1 song(s) (0.33%)
 	Go With The Flow
-Greta Van Fleet: 1 song(s) (0.34%)
+Greta Van Fleet: 1 song(s) (0.33%)
 	Highway Tune
-The Killers: 1 song(s) (0.34%)
+The Killers: 1 song(s) (0.33%)
 	Mr. Brightside
-Fall Out Boy: 1 song(s) (0.34%)
+Fall Out Boy: 1 song(s) (0.33%)
 	My Songs Know What You Did In The Dark (Light Em Up)
-Lauren Bennett: 1 song(s) (0.34%)
+Lauren Bennett: 1 song(s) (0.33%)
 	Party Rock Anthem
-GoonRock: 1 song(s) (0.34%)
+GoonRock: 1 song(s) (0.33%)
 	Party Rock Anthem
-Bell Biv DeVoe: 1 song(s) (0.34%)
+Bell Biv DeVoe: 1 song(s) (0.33%)
 	Poison
-The White Stripes: 1 song(s) (0.34%)
+The White Stripes: 1 song(s) (0.33%)
 	Seven Nation Army
-KT Tunstall: 1 song(s) (0.34%)
+KT Tunstall: 1 song(s) (0.33%)
 	Suddenly I See
-The Cranberries: 1 song(s) (0.34%)
+The Cranberries: 1 song(s) (0.33%)
 	Zombie
-Pat Benatar: 1 song(s) (0.34%)
+Pat Benatar: 1 song(s) (0.33%)
 	Heartbreaker
-Shawn Mendes: 1 song(s) (0.34%)
+Shawn Mendes: 1 song(s) (0.33%)
 	Stitches
-Bastille: 1 song(s) (0.34%)
+Bastille: 1 song(s) (0.33%)
 	Pompeii
-Haddaway: 1 song(s) (0.34%)
+Haddaway: 1 song(s) (0.33%)
 	What Is Love
-Elton John: 1 song(s) (0.34%)
+Elton John: 1 song(s) (0.33%)
 	Hold Me Closer
-Aqua: 1 song(s) (0.34%)
+Aqua: 1 song(s) (0.33%)
 	Barbie Girl
-Miley Cyrus: 1 song(s) (0.34%)
+Miley Cyrus: 1 song(s) (0.33%)
 	Flowers
-Madonna: 1 song(s) (0.34%)
+Madonna: 1 song(s) (0.33%)
 	Popular 
-Playboi Carti: 1 song(s) (0.34%)
+Playboi Carti: 1 song(s) (0.33%)
 	Popular 
-Colby O'Donis: 1 song(s) (0.34%)
+Colby O'Donis: 1 song(s) (0.33%)
 	Just Dance
-Nelly: 1 song(s) (0.34%)
+Nelly: 1 song(s) (0.33%)
 	Ride Wit Me
-City Spud: 1 song(s) (0.34%)
+City Spud: 1 song(s) (0.33%)
 	Ride Wit Me
-Soundgarden: 1 song(s) (0.34%)
-	Black Hole Sun
-John Legend: 1 song(s) (0.34%)
+John Legend: 1 song(s) (0.33%)
 	All Of Me (Tiësto's Birthday Treatment Remix)
-Halsey: 1 song(s) (0.34%)
+Halsey: 1 song(s) (0.33%)
 	Closer
-Rob Base: 1 song(s) (0.34%)
+Rob Base: 1 song(s) (0.33%)
 	It Takes Two
-DJ EZ Rock: 1 song(s) (0.34%)
+DJ EZ Rock: 1 song(s) (0.33%)
 	It Takes Two
-Meghan Trainor: 1 song(s) (0.34%)
+Meghan Trainor: 1 song(s) (0.33%)
 	Me Too
-JID: 1 song(s) (0.34%)
+JID: 1 song(s) (0.33%)
 	Surround Sound
-21 Savage: 1 song(s) (0.34%)
+21 Savage: 1 song(s) (0.33%)
 	Surround Sound
-Baby Tate: 1 song(s) (0.34%)
+Baby Tate: 1 song(s) (0.33%)
 	Surround Sound
-Latto: 1 song(s) (0.34%)
+Latto: 1 song(s) (0.33%)
 	Big Energy
-Ed Sheeran: 1 song(s) (0.34%)
+Ed Sheeran: 1 song(s) (0.33%)
 	Shivers
-Paramore: 1 song(s) (0.34%)
+Paramore: 1 song(s) (0.33%)
 	Misery Business
-Panic! at the Disco: 1 song(s) (0.34%)
+Panic! at the Disco: 1 song(s) (0.33%)
 	High Hopes
-Portugal. The Man: 1 song(s) (0.34%)
+Portugal. The Man: 1 song(s) (0.33%)
 	Feel It Still
-Disturbed: 1 song(s) (0.34%)
+Disturbed: 1 song(s) (0.33%)
 	Down with the Sickness
-Gorillaz: 1 song(s) (0.34%)
+Gorillaz: 1 song(s) (0.33%)
 	Feel Good Inc
-Darude: 1 song(s) (0.34%)
+Darude: 1 song(s) (0.33%)
 	Sandstorm
-Jimmy Eat World: 1 song(s) (0.34%)
+Jimmy Eat World: 1 song(s) (0.33%)
 	The Middle
-Katy Perry: 1 song(s) (0.34%)
+Katy Perry: 1 song(s) (0.33%)
 	Firework
-SAINt JHN: 1 song(s) (0.34%)
+SAINt JHN: 1 song(s) (0.33%)
 	Roses (Imanbek Remix)
-P!nk: 1 song(s) (0.34%)
+P!nk: 1 song(s) (0.33%)
 	So What
-DMX: 1 song(s) (0.34%)
+DMX: 1 song(s) (0.33%)
 	X Gon' Give It To Ya
-Muse: 1 song(s) (0.34%)
+Muse: 1 song(s) (0.33%)
 	Hysteria
-Masked Wolf: 1 song(s) (0.34%)
+Masked Wolf: 1 song(s) (0.33%)
 	Astronaut In The Ocean
-Carly Rae Jepsen: 1 song(s) (0.34%)
+Carly Rae Jepsen: 1 song(s) (0.33%)
 	Call Me Maybe
-Kansas: 1 song(s) (0.34%)
+Kansas: 1 song(s) (0.33%)
 	Carry on Wayward Son
-Blue Öyster Cult: 1 song(s) (0.34%)
+Blue Öyster Cult: 1 song(s) (0.33%)
 	(Don't Fear) The Reaper
-YUNGBLUD: 1 song(s) (0.34%)
+YUNGBLUD: 1 song(s) (0.33%)
 	I Think I'm OKAY
-Far East Movement: 1 song(s) (0.34%)
+Far East Movement: 1 song(s) (0.33%)
 	Like A G6
-The Cataracs: 1 song(s) (0.34%)
+The Cataracs: 1 song(s) (0.33%)
 	Like A G6
-DEV: 1 song(s) (0.34%)
+DEV: 1 song(s) (0.33%)
 	Like A G6
-ATB: 1 song(s) (0.34%)
+ATB: 1 song(s) (0.33%)
 	Your Love (9pm)
-Jonas Brothers: 1 song(s) (0.34%)
+Jonas Brothers: 1 song(s) (0.33%)
 	Sucker
-Zedd: 1 song(s) (0.34%)
+Zedd: 1 song(s) (0.33%)
 	The Middle
-Maren Morris: 1 song(s) (0.34%)
+Maren Morris: 1 song(s) (0.33%)
 	The Middle
-Grey: 1 song(s) (0.34%)
+Grey: 1 song(s) (0.33%)
 	The Middle
-Young MC: 1 song(s) (0.34%)
+Young MC: 1 song(s) (0.33%)
 	Bust A Move
-24kGoldn: 1 song(s) (0.34%)
+24kGoldn: 1 song(s) (0.33%)
 	Mood
-iann dior: 1 song(s) (0.34%)
+iann dior: 1 song(s) (0.33%)
 	Mood
-A Tribe Called Quest: 1 song(s) (0.34%)
+A Tribe Called Quest: 1 song(s) (0.33%)
 	Scenario
-Leaders Of The New School: 1 song(s) (0.34%)
+Leaders Of The New School: 1 song(s) (0.33%)
 	Scenario
-Rick James: 1 song(s) (0.34%)
+Rick James: 1 song(s) (0.33%)
 	Super Freak
-MGMT: 1 song(s) (0.34%)
+MGMT: 1 song(s) (0.33%)
 	Kids
-Swedish House Mafia: 1 song(s) (0.34%)
+Swedish House Mafia: 1 song(s) (0.33%)
 	Don't You Worry Child
-John Martin: 1 song(s) (0.34%)
+John Martin: 1 song(s) (0.33%)
 	Don't You Worry Child
-Foo Fighters: 1 song(s) (0.34%)
+Foo Fighters: 1 song(s) (0.33%)
 	Everlong
-Skee-Lo: 1 song(s) (0.34%)
+Skee-Lo: 1 song(s) (0.33%)
 	I Wish
-Oh Wonder: 1 song(s) (0.34%)
+Oh Wonder: 1 song(s) (0.33%)
 	The Way Life Goes
-Blur: 1 song(s) (0.34%)
+Blur: 1 song(s) (0.33%)
 	Song 2
-Taking Back Sunday: 1 song(s) (0.34%)
+Taking Back Sunday: 1 song(s) (0.33%)
 	MakeDamnSure
-Bleachers: 1 song(s) (0.34%)
+Bleachers: 1 song(s) (0.33%)
 	I Wanna Get Better
-Eslabon Armado: 1 song(s) (0.34%)
+Eslabon Armado: 1 song(s) (0.33%)
 	Ella Baila Sola
-PinkPantheress: 1 song(s) (0.34%)
+PinkPantheress: 1 song(s) (0.33%)
 	Boy's A Liar Pt. 2
-Ice Spice: 1 song(s) (0.34%)
+Ice Spice: 1 song(s) (0.33%)
 	Boy's A Liar Pt. 2
-J. Balvin: 1 song(s) (0.34%)
+J. Balvin: 1 song(s) (0.33%)
 	Mi Gente
-Willy William: 1 song(s) (0.34%)
+Willy William: 1 song(s) (0.33%)
 	Mi Gente
-No Doubt: 1 song(s) (0.34%)
+No Doubt: 1 song(s) (0.33%)
 	Just A Girl
-5 Seconds Of Summer: 1 song(s) (0.34%)
+5 Seconds Of Summer: 1 song(s) (0.33%)
 	Youngblood
-The Cure: 1 song(s) (0.34%)
+The Cure: 1 song(s) (0.33%)
 	Friday I'm In Love
-Lil Jon: 1 song(s) (0.34%)
+Lil Jon: 1 song(s) (0.33%)
 	Get Low
-The East Side Boyz: 1 song(s) (0.34%)
+The East Side Boyz: 1 song(s) (0.33%)
 	Get Low
-Ying Yang Twins: 1 song(s) (0.34%)
+Ying Yang Twins: 1 song(s) (0.33%)
 	Get Low
-blackbear: 1 song(s) (0.34%)
+blackbear: 1 song(s) (0.33%)
 	my ex's best friend
-Montell Jordan: 1 song(s) (0.34%)
+Montell Jordan: 1 song(s) (0.33%)
 	This Is How We Do It
-Kelly Clarkson: 1 song(s) (0.34%)
+Kelly Clarkson: 1 song(s) (0.33%)
 	Stronger (What Doesn't Kill You)
-Sia: 1 song(s) (0.34%)
+Sia: 1 song(s) (0.33%)
 	Cheap Thrills
-Nirvana: 1 song(s) (0.34%)
+Nirvana: 1 song(s) (0.33%)
 	Breed
-John Williams: 1 song(s) (0.34%)
+John Williams: 1 song(s) (0.33%)
 	Cantina Band
-London Symphony Orchestra: 1 song(s) (0.34%)
+London Symphony Orchestra: 1 song(s) (0.33%)
 	Cantina Band
-Evanescence: 1 song(s) (0.34%)
+Evanescence: 1 song(s) (0.33%)
 	Bring Me To Life
-2Pac: 1 song(s) (0.34%)
+2Pac: 1 song(s) (0.33%)
 	Changes
-Talent: 1 song(s) (0.34%)
+Talent: 1 song(s) (0.33%)
 	Changes
-System Of A Down: 1 song(s) (0.34%)
+System Of A Down: 1 song(s) (0.33%)
 	Toxicity
-Avenged Sevenfold: 1 song(s) (0.34%)
+Avenged Sevenfold: 1 song(s) (0.33%)
 	Hail To The King
-Megan Thee Stallion: 1 song(s) (0.34%)
+Megan Thee Stallion: 1 song(s) (0.33%)
 	Savage
-Ramones: 1 song(s) (0.34%)
+Ramones: 1 song(s) (0.33%)
 	Blitzkrieg Bop
-Rob Zombie: 1 song(s) (0.34%)
+Rob Zombie: 1 song(s) (0.33%)
 	Dragula
-Rancid: 1 song(s) (0.34%)
+Rancid: 1 song(s) (0.33%)
 	Ruby Soho
-Måneskin: 1 song(s) (0.34%)
+Måneskin: 1 song(s) (0.33%)
 	Beggin'
-Don Toliver: 1 song(s) (0.34%)
+Don Toliver: 1 song(s) (0.33%)
 	Bandit
-Beastie Boys: 1 song(s) (0.34%)
+Beastie Boys: 1 song(s) (0.33%)
 	Sabotage
-Morgan Wallen: 1 song(s) (0.34%)
+Morgan Wallen: 1 song(s) (0.33%)
 	I Had Some Help
-Pitbull: 1 song(s) (0.34%)
+Pitbull: 1 song(s) (0.33%)
 	Give Me Everything
-Ne-Yo: 1 song(s) (0.34%)
+Ne-Yo: 1 song(s) (0.33%)
 	Give Me Everything
-Nayer: 1 song(s) (0.34%)
+Nayer: 1 song(s) (0.33%)
 	Give Me Everything
-NickEh30: 1 song(s) (0.34%)
+NickEh30: 1 song(s) (0.33%)
 	Never Back Down
-Lil Mosey: 1 song(s) (0.34%)
+Lil Mosey: 1 song(s) (0.33%)
 	Blueberry Faygo
-Vengaboys: 1 song(s) (0.34%)
+Vengaboys: 1 song(s) (0.33%)
 	We Like To Party! (The Vengabus)
-Bad Bunny and Jhayco: 1 song(s) (0.34%)
+Bad Bunny and Jhayco: 1 song(s) (0.33%)
 	DÁKITI
-Hozier: 1 song(s) (0.34%)
+Hozier: 1 song(s) (0.33%)
 	Too Sweet
-Gwen Stefani: 1 song(s) (0.34%)
+Gwen Stefani: 1 song(s) (0.33%)
 	Hollaback Girl
-Mark Ronson: 1 song(s) (0.34%)
+Mark Ronson: 1 song(s) (0.33%)
 	Uptown Funk
-Bad Bunny: 1 song(s) (0.34%)
+Bad Bunny: 1 song(s) (0.33%)
 	Tití Me Preguntó
-GAYLE: 1 song(s) (0.34%)
+GAYLE: 1 song(s) (0.33%)
 	abcdefu
-NLE Choppa: 1 song(s) (0.34%)
+NLE Choppa: 1 song(s) (0.33%)
 	Walk Em Down
-Roddy Ricch: 1 song(s) (0.34%)
+Roddy Ricch: 1 song(s) (0.33%)
 	Walk Em Down
-Thin Lizzy: 1 song(s) (0.34%)
+Thin Lizzy: 1 song(s) (0.33%)
 	The Boys Are Back In Town
-Europe: 1 song(s) (0.34%)
+Europe: 1 song(s) (0.33%)
 	The Final Countdown
-Alice In Chains: 1 song(s) (0.34%)
+Alice In Chains: 1 song(s) (0.33%)
 	Would?
-Cage The Elephant: 1 song(s) (0.34%)
+Cage The Elephant: 1 song(s) (0.33%)
 	Ain't No Rest For The Wicked
-Rae Sremmurd: 1 song(s) (0.34%)
+Rae Sremmurd: 1 song(s) (0.33%)
 	Black Beatles
-Gucci Mane: 1 song(s) (0.34%)
+Gucci Mane: 1 song(s) (0.33%)
 	Black Beatles
-Kid Cudi: 1 song(s) (0.34%)
+Kid Cudi: 1 song(s) (0.33%)
 	Day 'N' Nite
-Desiigner: 1 song(s) (0.34%)
+Desiigner: 1 song(s) (0.33%)
 	Panda
-Eva Simons: 1 song(s) (0.34%)
+Eva Simons: 1 song(s) (0.33%)
 	Take Over Control
-Ovy On The Drums: 1 song(s) (0.34%)
+Ovy On The Drums: 1 song(s) (0.33%)
 	CAIRO
-Ava Max: 1 song(s) (0.34%)
+Ava Max: 1 song(s) (0.33%)
 	My Oh My
-Iyaz: 1 song(s) (0.34%)
+Iyaz: 1 song(s) (0.33%)
 	Replay
-Noah Kahan: 1 song(s) (0.34%)
+Noah Kahan: 1 song(s) (0.33%)
 	Stick Season
-Sabrina Carpenter: 1 song(s) (0.34%)
+Sabrina Carpenter: 1 song(s) (0.33%)
 	Espresso
-DRAM: 1 song(s) (0.34%)
+DRAM: 1 song(s) (0.33%)
 	Broccoli
-Lil Yachty: 1 song(s) (0.34%)
+Lil Yachty: 1 song(s) (0.33%)
 	Broccoli
-Shakira: 1 song(s) (0.34%)
+Shakira: 1 song(s) (0.33%)
 	Whenever, Wherever
-Quavo and Lenny Kravitz: 1 song(s) (0.34%)
+Quavo and Lenny Kravitz: 1 song(s) (0.33%)
 	Fly
-Daya: 1 song(s) (0.34%)
+Daya: 1 song(s) (0.33%)
 	Don't Let Me Down
-Alice Deejay: 1 song(s) (0.34%)
+Alice Deejay: 1 song(s) (0.33%)
 	Better Off Alone
-Charli xcx: 1 song(s) (0.34%)
+Charli xcx: 1 song(s) (0.33%)
 	Apple
-Chappell Roan: 1 song(s) (0.34%)
+Chappell Roan: 1 song(s) (0.33%)
 	HOT TO GO!
-Justin Bieber: 1 song(s) (0.34%)
+Justin Bieber: 1 song(s) (0.33%)
 	What Do You Mean?
-Earth: 1 song(s) (0.34%)
+Earth: 1 song(s) (0.33%)
 	September
-Wind: 1 song(s) (0.34%)
+Wind: 1 song(s) (0.33%)
 	September
-Fire: 1 song(s) (0.34%)
+Fire: 1 song(s) (0.33%)
 	September
-Timbaland: 1 song(s) (0.34%)
+Timbaland: 1 song(s) (0.33%)
 	SexyBack
-Taio Cruz: 1 song(s) (0.34%)
+Taio Cruz: 1 song(s) (0.33%)
 	Dynamite
-Technotronic: 1 song(s) (0.34%)
+Technotronic: 1 song(s) (0.33%)
 	Pump Up The Jam
+Pharrell Williams: 1 song(s) (0.33%)
+	Happy
