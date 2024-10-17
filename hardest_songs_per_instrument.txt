@@ -65,6 +65,7 @@ Guitar
 	For Latveria (6)
 	Beyond the Flame (6)
 	Fell On Black Days (5)
+	Nightmare (5)
 Bass
 	i (6)
 	Welcome to Paradise (5)
@@ -78,6 +79,7 @@ Bass
 	One (6)
 	Seek & Destroy (5)
 	Paradise City (5)
+	Nightmare (6)
 Drums
 	i (5)
 	Mr. Brightside (5)
@@ -114,3 +116,4 @@ Drums
 	Pump Up The Jam (5)
 	Tropical Heat (5)
 	Inferno Island (5)
+	Nightmare (5)
