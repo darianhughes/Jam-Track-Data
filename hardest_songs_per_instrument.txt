@@ -35,6 +35,8 @@ Vocals
 	All Eyez On Me (5)
 	Barbarian (5)
 	Break The Curse (5)
+	Bang Bang (5)
+	The Brave (5)
 Guitar
 	Highway Tune (5)
 	Welcome to Paradise (5)
@@ -78,6 +80,7 @@ Guitar
 	Nightmare (5)
 	Larry's Place (5)
 	Break The Curse (5)
+	The Brave (6)
 Bass
 	i (6)
 	Welcome to Paradise (5)
@@ -92,6 +95,7 @@ Bass
 	Seek & Destroy (5)
 	Paradise City (5)
 	Nightmare (6)
+	The Brave (5)
 Drums
 	i (5)
 	Mr. Brightside (5)
@@ -133,3 +137,4 @@ Drums
 	Cat's Prowl (5)
 	Night Rose's Song (5)
 	Break The Curse (5)
+	The Brave (5)
