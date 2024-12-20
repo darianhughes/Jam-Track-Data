@@ -37,6 +37,7 @@ Vocals
 	Break The Curse (5)
 	Bang Bang (5)
 	The Brave (5)
+	Fireball  (5)
 Guitar
 	Highway Tune (5)
 	Welcome to Paradise (5)
@@ -139,3 +140,4 @@ Drums
 	Night Rose's Song (5)
 	Break The Curse (5)
 	The Brave (5)
+	The Diary Of Jane (5)
