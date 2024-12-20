@@ -1,4 +1,4 @@
-Epic Games: 58 song(s) (15.89%)
+Epic Games: 59 song(s) (16.12%)
 	You're All Mine
 	You Don't Know Me
 	Winterfest Wish
@@ -21,6 +21,7 @@ Epic Games: 58 song(s) (15.89%)
 	Show Them Who We Are
 	Say It Proud
 	S.O.M.P.
+	Run It Up
 	Run It
 	Return of the Tiger
 	Pea Like Me
@@ -57,7 +58,7 @@ Epic Games: 58 song(s) (15.89%)
 	Beyond the Flame
 	Best Buds
 	8-Bit Beat
-Metallica: 14 song(s) (3.84%)
+Metallica: 14 song(s) (3.83%)
 	Wherever I May Roam
 	The Unforgiven
 	Seek & Destroy
@@ -72,7 +73,7 @@ Metallica: 14 song(s) (3.84%)
 	Fade to Black
 	Enter Sandman
 	Battery
-Billie Eilish: 10 song(s) (2.74%)
+Billie Eilish: 10 song(s) (2.73%)
 	bury a friend
 	bad guy
 	all the good girls go to hell
@@ -83,7 +84,7 @@ Billie Eilish: 10 song(s) (2.74%)
 	Happier Than Ever - Edit
 	CHIHIRO
 	BIRDS OF A FEATHER
-Lady Gaga: 10 song(s) (2.74%)
+Lady Gaga: 10 song(s) (2.73%)
 	The Edge of Glory
 	Stupid Love
 	Rain On Me
@@ -103,7 +104,7 @@ Juice WRLD: 8 song(s) (2.19%)
 	Come & Go
 	Barbarian
 	Armed And Dangerous
-The Weeknd: 7 song(s) (1.92%)
+The Weeknd: 7 song(s) (1.91%)
 	The Hills
 	Take My Breath
 	Save Your Tears
@@ -111,7 +112,7 @@ The Weeknd: 7 song(s) (1.92%)
 	Dancing in the Flames
 	Can't Feel My Face
 	Blinding Lights
-Ariana Grande: 7 song(s) (1.92%)
+Ariana Grande: 7 song(s) (1.91%)
 	yes, and?
 	the boy is mine
 	positions
@@ -139,12 +140,12 @@ Karol G: 5 song(s) (1.37%)
 	PROVENZA (REMIX)
 	OKI DOKI
 	CAIRO
-Doja Cat: 4 song(s) (1.1%)
+Doja Cat: 4 song(s) (1.09%)
 	Woman
 	Say So
 	Paint The Town Red
 	Kiss Me More
-Snoop Dogg: 4 song(s) (1.1%)
+Snoop Dogg: 4 song(s) (1.09%)
 	Young, Wild & Free
 	Drop It Like It's Hot
 	Beautiful
