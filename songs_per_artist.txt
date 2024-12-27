@@ -1,4 +1,4 @@
-Epic Games: 59 song(s) (16.08%)
+Epic Games: 59 song(s) (15.86%)
 	You're All Mine
 	You Don't Know Me
 	Winterfest Wish
@@ -58,7 +58,7 @@ Epic Games: 59 song(s) (16.08%)
 	Beyond the Flame
 	Best Buds
 	8-Bit Beat
-Metallica: 14 song(s) (3.81%)
+Metallica: 14 song(s) (3.76%)
 	Wherever I May Roam
 	The Unforgiven
 	Seek & Destroy
@@ -73,7 +73,7 @@ Metallica: 14 song(s) (3.81%)
 	Fade to Black
 	Enter Sandman
 	Battery
-Billie Eilish: 10 song(s) (2.72%)
+Billie Eilish: 10 song(s) (2.69%)
 	bury a friend
 	bad guy
 	all the good girls go to hell
@@ -84,7 +84,7 @@ Billie Eilish: 10 song(s) (2.72%)
 	Happier Than Ever - Edit
 	CHIHIRO
 	BIRDS OF A FEATHER
-Lady Gaga: 10 song(s) (2.72%)
+Lady Gaga: 10 song(s) (2.69%)
 	The Edge of Glory
 	Stupid Love
 	Rain On Me
@@ -95,7 +95,7 @@ Lady Gaga: 10 song(s) (2.72%)
 	Bloody Mary
 	Bad Romance
 	Applause
-Juice WRLD: 8 song(s) (2.18%)
+Juice WRLD: 8 song(s) (2.15%)
 	Wishing Well
 	Robbery
 	Lucid Dreams
@@ -104,7 +104,7 @@ Juice WRLD: 8 song(s) (2.18%)
 	Come & Go
 	Barbarian
 	Armed And Dangerous
-The Weeknd: 7 song(s) (1.91%)
+The Weeknd: 7 song(s) (1.88%)
 	The Hills
 	Take My Breath
 	Save Your Tears
@@ -112,7 +112,7 @@ The Weeknd: 7 song(s) (1.91%)
 	Dancing in the Flames
 	Can't Feel My Face
 	Blinding Lights
-Ariana Grande: 7 song(s) (1.91%)
+Ariana Grande: 7 song(s) (1.88%)
 	yes, and?
 	the boy is mine
 	positions
@@ -120,113 +120,118 @@ Ariana Grande: 7 song(s) (1.91%)
 	Rain On Me
 	Into You
 	Bang Bang
-Green Day: 6 song(s) (1.63%)
+Green Day: 6 song(s) (1.61%)
 	When I Come Around
 	Welcome to Paradise
 	Holiday
 	Boulevard of Broken Dreams
 	Basket Case
 	American Idiot
-Nicki Minaj: 6 song(s) (1.63%)
+Nicki Minaj: 6 song(s) (1.61%)
 	Tusa
 	Super Bass
 	Starships
 	Side To Side
 	FTCU
 	Bang Bang
-Karol G: 5 song(s) (1.36%)
+Karol G: 5 song(s) (1.34%)
 	Tusa
 	QLONA
 	PROVENZA (REMIX)
 	OKI DOKI
 	CAIRO
-Doja Cat: 4 song(s) (1.09%)
+Fall Out Boy: 4 song(s) (1.08%)
+	This Ain't A Scene, It's An Arms Race
+	Sugar, We're Goin Down
+	My Songs Know What You Did In The Dark (Light Em Up)
+	Centuries
+Doja Cat: 4 song(s) (1.08%)
 	Woman
 	Say So
 	Paint The Town Red
 	Kiss Me More
-Snoop Dogg: 4 song(s) (1.09%)
+Snoop Dogg: 4 song(s) (1.08%)
 	Young, Wild & Free
 	Drop It Like It's Hot
 	Beautiful
 	All I Do Is Win
-Weezer: 3 song(s) (0.82%)
+Weezer: 3 song(s) (0.81%)
 	Undone - The Sweater Song
 	Say It Ain't So
 	Buddy Holly
-mgk: 3 song(s) (0.82%)
+mgk: 3 song(s) (0.81%)
 	my ex's best friend
 	emo girl
 	I Think I'm OKAY
-Kendrick Lamar: 3 song(s) (0.82%)
+Kendrick Lamar: 3 song(s) (0.81%)
 	i
 	HUMBLE.
 	All The Stars
-WitchGang: 3 song(s) (0.82%)
+WitchGang: 3 song(s) (0.81%)
 	Timeless
 	Runaway
 	Nothing's Alright
-Nine Inch Nails: 3 song(s) (0.82%)
+Nine Inch Nails: 3 song(s) (0.81%)
 	The Hand That Feeds
 	March Of The Pigs
 	Less Than
-Imagine Dragons: 3 song(s) (0.82%)
+Imagine Dragons: 3 song(s) (0.81%)
 	Thunder
 	Eyes Closed
 	Believer
-Olivia Rodrigo: 3 song(s) (0.82%)
+Olivia Rodrigo: 3 song(s) (0.81%)
 	vampire
 	good 4 u
 	get him back!
-U2: 3 song(s) (0.82%)
+U2: 3 song(s) (0.81%)
 	With Or Without You
 	I Still Haven't Found What I'm Looking For
 	Beautiful Day
-blink-182: 3 song(s) (0.82%)
+blink-182: 3 song(s) (0.81%)
 	YOU DON'T KNOW WHAT YOU'VE GOT
 	What's My Age Again?
 	All The Small Things
-Jack Harlow: 3 song(s) (0.82%)
+Jack Harlow: 3 song(s) (0.81%)
 	WHATS POPPIN
 	Lovin On Me
 	Industry Baby
-Marshmello: 3 song(s) (0.82%)
+Marshmello: 3 song(s) (0.81%)
 	Wolves
 	Spies! (Marshmello Remix)
 	Come & Go
-Ice Spice: 3 song(s) (0.82%)
+Ice Spice: 3 song(s) (0.81%)
 	Oh Shhh...
 	In Ha Mood
 	Boy's A Liar Pt. 2
-Sean Paul: 3 song(s) (0.82%)
+Sean Paul: 3 song(s) (0.81%)
 	Gimme The Light
 	Get Busy
 	Cheap Thrills
-Twenty One Pilots: 3 song(s) (0.82%)
+Twenty One Pilots: 3 song(s) (0.81%)
 	Stressed Out
 	Next Semester
 	Heathens
-Post Malone: 3 song(s) (0.82%)
+Post Malone: 3 song(s) (0.81%)
 	I Had Some Help
 	Circles
 	Better Now
-Bruno Mars: 3 song(s) (0.82%)
+Bruno Mars: 3 song(s) (0.81%)
 	Young, Wild & Free
 	Uptown Funk
 	24K Magic
-Guns N' Roses: 3 song(s) (0.82%)
+Guns N' Roses: 3 song(s) (0.81%)
 	Welcome To The Jungle
 	Sweet Child O' Mine
 	Paradise City
-The Notorious B.I.G.: 3 song(s) (0.82%)
+The Notorious B.I.G.: 3 song(s) (0.81%)
 	Notorious Thugs
 	Juicy
 	Big Poppa
-Murda Beatz: 3 song(s) (0.82%)
+Murda Beatz: 3 song(s) (0.81%)
 	Spies! (Murda Beatz Remix)
 	Limitless (Murda Beatz Remix)
 	Bunny Bounce (Murda Beatz Remix)
-Flo Rida: 3 song(s) (0.82%)
+Flo Rida: 3 song(s) (0.81%)
 	Wild Ones
 	Right Round
 	My House
@@ -359,8 +364,6 @@ Queens of the Stone Age: 1 song(s) (0.27%)
 	Go With The Flow
 Greta Van Fleet: 1 song(s) (0.27%)
 	Highway Tune
-Fall Out Boy: 1 song(s) (0.27%)
-	My Songs Know What You Did In The Dark (Light Em Up)
 Lauren Bennett: 1 song(s) (0.27%)
 	Party Rock Anthem
 GoonRock: 1 song(s) (0.27%)
@@ -709,3 +712,7 @@ Wyclef Jean: 1 song(s) (0.27%)
 	Hips Don't Lie
 Mariah Carey: 1 song(s) (0.27%)
 	All I Want For Christmas Is You
+3 Doors Down: 1 song(s) (0.27%)
+	Kryptonite
+Chumbawamba: 1 song(s) (0.27%)
+	Tubthumping
