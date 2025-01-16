@@ -154,11 +154,11 @@ plt.rcParams['figure.subplot.right'] = 0.9
 plt.rcParams['figure.subplot.top'] = 0.974
 
 plt.figure(figsize=(12, 6))
-songs_per_artist_with_count = ["{} ({} songs)".format(artist, count) for artist, count in number_of_songs_per_artist.items() if count > 2]
-plt.pie([count for artist, count in number_of_songs_per_artist.items() if count > 2], 
+songs_per_artist_with_count = ["{} ({} songs)".format(artist, count) for artist, count in number_of_songs_per_artist.items() if count > 3]
+plt.pie([count for artist, count in number_of_songs_per_artist.items() if count > 3], 
         labels=songs_per_artist_with_count, 
         autopct='%1.1f%%', startangle=200)
-plt.title('Artists by Song Count (More than Two Songs)')
+plt.title('Artists by Song Count (More than Three Songs)')
 plt.axis('equal')  # Equal aspect ratio ensures that pie is drawn as a circle.
 plt.show()
 

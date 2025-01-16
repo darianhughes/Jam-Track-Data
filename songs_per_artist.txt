@@ -1,4 +1,4 @@
-Epic Games: 63 song(s) (16.03%)
+Epic Games: 63 song(s) (15.87%)
 	You're All Mine
 	You Don't Know Me
 	Winterfest Wish
@@ -62,7 +62,7 @@ Epic Games: 63 song(s) (16.03%)
 	Beyond the Flame
 	Best Buds
 	8-Bit Beat
-Metallica: 14 song(s) (3.56%)
+Metallica: 14 song(s) (3.53%)
 	Wherever I May Roam
 	The Unforgiven
 	Seek & Destroy
@@ -77,7 +77,7 @@ Metallica: 14 song(s) (3.56%)
 	Fade to Black
 	Enter Sandman
 	Battery
-Billie Eilish: 10 song(s) (2.54%)
+Billie Eilish: 10 song(s) (2.52%)
 	bury a friend
 	bad guy
 	all the good girls go to hell
@@ -88,7 +88,7 @@ Billie Eilish: 10 song(s) (2.54%)
 	Happier Than Ever - Edit
 	CHIHIRO
 	BIRDS OF A FEATHER
-Lady Gaga: 10 song(s) (2.54%)
+Lady Gaga: 10 song(s) (2.52%)
 	The Edge of Glory
 	Stupid Love
 	Rain On Me
@@ -99,7 +99,7 @@ Lady Gaga: 10 song(s) (2.54%)
 	Bloody Mary
 	Bad Romance
 	Applause
-Juice WRLD: 8 song(s) (2.04%)
+Juice WRLD: 8 song(s) (2.02%)
 	Wishing Well
 	Robbery
 	Lucid Dreams
@@ -108,7 +108,7 @@ Juice WRLD: 8 song(s) (2.04%)
 	Come & Go
 	Barbarian
 	Armed And Dangerous
-The Weeknd: 7 song(s) (1.78%)
+The Weeknd: 7 song(s) (1.76%)
 	The Hills
 	Take My Breath
 	Save Your Tears
@@ -116,7 +116,7 @@ The Weeknd: 7 song(s) (1.78%)
 	Dancing in the Flames
 	Can't Feel My Face
 	Blinding Lights
-Ariana Grande: 7 song(s) (1.78%)
+Ariana Grande: 7 song(s) (1.76%)
 	yes, and?
 	the boy is mine
 	positions
@@ -124,49 +124,50 @@ Ariana Grande: 7 song(s) (1.78%)
 	Rain On Me
 	Into You
 	Bang Bang
-Imagine Dragons: 6 song(s) (1.53%)
+Nicki Minaj: 7 song(s) (1.76%)
+	Tusa
+	Super Bass
+	Starships
+	Side To Side
+	FTCU
+	Beauty and a Beat
+	Bang Bang
+Imagine Dragons: 6 song(s) (1.51%)
 	Thunder
 	Radioactive
 	Eyes Closed
 	Demons
 	Bones
 	Believer
-Green Day: 6 song(s) (1.53%)
+Green Day: 6 song(s) (1.51%)
 	When I Come Around
 	Welcome to Paradise
 	Holiday
 	Boulevard of Broken Dreams
 	Basket Case
 	American Idiot
-Nicki Minaj: 6 song(s) (1.53%)
-	Tusa
-	Super Bass
-	Starships
-	Side To Side
-	FTCU
-	Bang Bang
-Karol G: 5 song(s) (1.27%)
+Karol G: 5 song(s) (1.26%)
 	Tusa
 	QLONA
 	PROVENZA (REMIX)
 	OKI DOKI
 	CAIRO
-Fall Out Boy: 4 song(s) (1.02%)
+Fall Out Boy: 4 song(s) (1.01%)
 	This Ain't A Scene, It's An Arms Race
 	Sugar, We're Goin Down
 	My Songs Know What You Did In The Dark (Light Em Up)
 	Centuries
-Doja Cat: 4 song(s) (1.02%)
+Doja Cat: 4 song(s) (1.01%)
 	Woman
 	Say So
 	Paint The Town Red
 	Kiss Me More
-Snoop Dogg: 4 song(s) (1.02%)
+Snoop Dogg: 4 song(s) (1.01%)
 	Young, Wild & Free
 	Drop It Like It's Hot
 	Beautiful
 	All I Do Is Win
-Hatsune Miku: 4 song(s) (1.02%)
+Hatsune Miku: 4 song(s) (1.01%)
 	World Is Mine
 	Miku
 	M@GICAL☆CURE! LOVE SHOT!
@@ -239,6 +240,10 @@ Guns N' Roses: 3 song(s) (0.76%)
 	Welcome To The Jungle
 	Sweet Child O' Mine
 	Paradise City
+Justin Bieber: 3 song(s) (0.76%)
+	What Do You Mean?
+	Ghost
+	Beauty and a Beat
 The Notorious B.I.G.: 3 song(s) (0.76%)
 	Notorious Thugs
 	Juicy
@@ -255,112 +260,115 @@ Red Hot Chili Peppers: 3 song(s) (0.76%)
 	Snow (Hey Oh)
 	Give It Away
 	Californication
-WILLOW: 2 song(s) (0.51%)
+WILLOW: 2 song(s) (0.5%)
 	t r a n s p a r e n t s o u l
 	emo girl
-The Killers: 2 song(s) (0.51%)
+The Killers: 2 song(s) (0.5%)
 	Somebody Told Me
 	Mr. Brightside
-LMFAO: 2 song(s) (0.51%)
+LMFAO: 2 song(s) (0.5%)
 	Sexy And I Know It
 	Party Rock Anthem
-NF: 2 song(s) (0.51%)
+NF: 2 song(s) (0.5%)
 	The Search
 	Let You Down
-Glass Animals: 2 song(s) (0.51%)
+Glass Animals: 2 song(s) (0.5%)
 	Heat Waves
 	Creatures In Heaven
-Selena Gomez: 2 song(s) (0.51%)
+Selena Gomez: 2 song(s) (0.5%)
 	Wolves
 	Single Soon
-Soundgarden: 2 song(s) (0.51%)
+Soundgarden: 2 song(s) (0.5%)
 	Fell On Black Days
 	Black Hole Sun
-Topic: 2 song(s) (0.51%)
+Topic: 2 song(s) (0.5%)
 	Your Love (9pm)
 	Breaking Me
-A7S: 2 song(s) (0.51%)
+A7S: 2 song(s) (0.5%)
 	Your Love (9pm)
 	Breaking Me
-The Chainsmokers: 2 song(s) (0.51%)
+The Chainsmokers: 2 song(s) (0.5%)
 	Don't Let Me Down
 	Closer
-Linkin Park: 2 song(s) (0.51%)
+Linkin Park: 2 song(s) (0.5%)
 	Numb
 	In The End
-Disturbed: 2 song(s) (0.51%)
+Disturbed: 2 song(s) (0.5%)
 	The Sound of Silence
 	Down with the Sickness
-Travis Barker: 2 song(s) (0.51%)
+Blue Öyster Cult: 2 song(s) (0.5%)
+	Godzilla
+	(Don't Fear) The Reaper
+Travis Barker: 2 song(s) (0.5%)
 	t r a n s p a r e n t s o u l
 	I Think I'm OKAY
-Maroon 5: 2 song(s) (0.51%)
+Maroon 5: 2 song(s) (0.5%)
 	Moves Like Jagger
 	Maps
-Christina Aguilera: 2 song(s) (0.51%)
+Christina Aguilera: 2 song(s) (0.5%)
 	Moves Like Jagger
 	Fighter
-Sublime: 2 song(s) (0.51%)
+Sublime: 2 song(s) (0.5%)
 	What I Got
 	Santeria
-Lil Uzi Vert: 2 song(s) (0.51%)
+Lil Uzi Vert: 2 song(s) (0.5%)
 	XO Tour Llif3 
 	The Way Life Goes
-Peso Pluma: 2 song(s) (0.51%)
+Peso Pluma: 2 song(s) (0.5%)
 	QLONA
 	Ella Baila Sola
-Rage Against The Machine: 2 song(s) (0.51%)
+Rage Against The Machine: 2 song(s) (0.5%)
 	Killing In The Name
 	Bulls On Parade
-Sia: 2 song(s) (0.51%)
+Sia: 2 song(s) (0.5%)
 	Wild Ones
 	Cheap Thrills
-Slipknot: 2 song(s) (0.51%)
+Slipknot: 2 song(s) (0.5%)
 	Unsainted
 	Before I Forget
-2Pac: 2 song(s) (0.51%)
+2Pac: 2 song(s) (0.5%)
 	Changes
 	All Eyez On Me
-SZA: 2 song(s) (0.51%)
+SZA: 2 song(s) (0.5%)
 	Kiss Me More
 	All The Stars
-Avenged Sevenfold: 2 song(s) (0.51%)
+Avenged Sevenfold: 2 song(s) (0.5%)
 	Nightmare
 	Hail To The King
-Pitbull: 2 song(s) (0.51%)
+Pitbull: 2 song(s) (0.5%)
 	Give Me Everything
 	Fireball 
-Afrojack: 2 song(s) (0.51%)
+Afrojack: 2 song(s) (0.5%)
 	Take Over Control
 	Give Me Everything
-Justin Timberlake: 2 song(s) (0.51%)
+Justin Timberlake: 2 song(s) (0.5%)
 	SexyBack
 	Can't Stop The Feeling!
-BTS: 2 song(s) (0.51%)
+BTS: 2 song(s) (0.5%)
 	Dynamite
 	Butter
-Avicii: 2 song(s) (0.51%)
+Avicii: 2 song(s) (0.5%)
 	The Nights
 	Hey Brother
-Roddy Ricch: 2 song(s) (0.51%)
+Bad Bunny: 2 song(s) (0.5%)
+	Tití Me Preguntó
+	MIA
+Roddy Ricch: 2 song(s) (0.5%)
 	Walk Em Down
 	Ballin'
-Sabrina Carpenter: 2 song(s) (0.51%)
+Sabrina Carpenter: 2 song(s) (0.5%)
 	Feather
 	Espresso
-Tiësto: 2 song(s) (0.51%)
+Tiësto: 2 song(s) (0.5%)
 	The Business
 	PROVENZA (REMIX)
-Shakira: 2 song(s) (0.51%)
+Shakira: 2 song(s) (0.5%)
 	Whenever, Wherever
 	Hips Don't Lie
-Justin Bieber: 2 song(s) (0.51%)
-	What Do You Mean?
-	Ghost
-Lil Nas X: 2 song(s) (0.51%)
+Lil Nas X: 2 song(s) (0.5%)
 	MONTERO (Call Me By Your Name)
 	Industry Baby
-Pharrell: 2 song(s) (0.51%)
+Pharrell: 2 song(s) (0.5%)
 	Drop It Like It's Hot
 	Beautiful
 DNCE: 1 song(s) (0.25%)
@@ -465,8 +473,6 @@ Carly Rae Jepsen: 1 song(s) (0.25%)
 	Call Me Maybe
 Kansas: 1 song(s) (0.25%)
 	Carry on Wayward Son
-Blue Öyster Cult: 1 song(s) (0.25%)
-	(Don't Fear) The Reaper
 YUNGBLUD: 1 song(s) (0.25%)
 	I Think I'm OKAY
 Far East Movement: 1 song(s) (0.25%)
@@ -587,8 +593,6 @@ Gwen Stefani: 1 song(s) (0.25%)
 	Hollaback Girl
 Mark Ronson: 1 song(s) (0.25%)
 	Uptown Funk
-Bad Bunny: 1 song(s) (0.25%)
-	Tití Me Preguntó
 GAYLE: 1 song(s) (0.25%)
 	abcdefu
 NLE Choppa: 1 song(s) (0.25%)
@@ -755,3 +759,7 @@ ryo (supercell): 1 song(s) (0.25%)
 	World Is Mine
 SAWTOWNE: 1 song(s) (0.25%)
 	M@GICAL☆CURE! LOVE SHOT!
+Drake: 1 song(s) (0.25%)
+	MIA
+Cypress Hill: 1 song(s) (0.25%)
+	Insane in the Brain
