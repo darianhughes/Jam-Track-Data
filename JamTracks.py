@@ -60,12 +60,12 @@ for i, entry in enumerate(data):
 sorted_list_of_songs = sorted(list_of_songs)
 
 # Write the sorted list of songs to the list_of_songs.txt file
-with open('list_of_songs.txt', 'w') as f:
+with open('list_of_songs.txt', 'w', encoding="utf-8") as f:
     for song in sorted_list_of_songs:
         f.write(f"{song}\n")
 
 # Write new songs to a new_songs.txt file
-with open('new_songs.txt', 'w') as f:
+with open('new_songs.txt', 'w', encoding="utf-8") as f:
     print('New songs from the past 5 days:')
     for song, modified_date in date_of_song.items():
         if is_within_five_days(modified_date):
@@ -130,7 +130,7 @@ for difficulties in song_difficulties:
         if value[3] >= 5:
             hardestDs.append(f"{difficulties} ({value[3]})")
 
-with open('hardest_songs_per_instrument.txt', 'w') as f:
+with open('hardest_songs_per_instrument.txt', 'w', encoding="utf-8") as f:
     f.write("Vocals\n")
     for song in hardestVl:
         f.write(f"\t{song}\n")
@@ -165,7 +165,7 @@ plt.show()
 sorted_songs_per_artist = {artist: sorted(songs, reverse=True) for artist, songs in songs_per_artist.items()}
 
 print("Saving artist data...")
-with open('songs_per_artist.txt', 'w') as f:
+with open('songs_per_artist.txt', 'w', encoding="utf-8") as f:
     for artist, song_count in sorted(number_of_songs_per_artist.items(), key=lambda x: x[1], reverse=True):
         song_percent = round(((song_count/number_of_songs) * 100), 2)
         f.write(f"{artist}: {song_count} song(s) ({song_percent}%)\n")

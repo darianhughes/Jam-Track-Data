@@ -2,14 +2,10 @@
 This repository has code that generates and displays Jam Track data, primarily on how many songs there are per artist in FNFestival and the number of songs per genre.
 
 ## New:
-Added a list of songs.
-
-I added the functionality to view what songs are new this week.
+There are no new additions in the commit.
 
 ## Changes:
-Popular and XO Tour Lif3e is no longer always detected as a new song.
-
-songs_per_artist.txt now shows the percentage of the total songs for an artist's songs in Fortnite Festival.
+The program now writes to files using UTF-8 encoding so it write the special characters in Spanish & Hatsune Miku songs.
 
 ## How does it work?
 The list of all available jam tracks can be found on the public Fortnite Content API at [this link](https://fortnitecontent-website-prod07.ol.epicgames.com/content/api/pages/fortnite-game/spark-tracks).
