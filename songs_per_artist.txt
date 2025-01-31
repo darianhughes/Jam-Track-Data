@@ -1,4 +1,4 @@
-Epic Games: 63 song(s) (15.75%)
+Epic Games: 63 song(s) (15.63%)
 	You're All Mine
 	You Don't Know Me
 	Winterfest Wish
@@ -62,7 +62,7 @@ Epic Games: 63 song(s) (15.75%)
 	Beyond the Flame
 	Best Buds
 	8-Bit Beat
-Metallica: 14 song(s) (3.5%)
+Metallica: 14 song(s) (3.47%)
 	Wherever I May Roam
 	The Unforgiven
 	Seek & Destroy
@@ -77,7 +77,7 @@ Metallica: 14 song(s) (3.5%)
 	Fade to Black
 	Enter Sandman
 	Battery
-Billie Eilish: 10 song(s) (2.5%)
+Billie Eilish: 10 song(s) (2.48%)
 	bury a friend
 	bad guy
 	all the good girls go to hell
@@ -88,7 +88,7 @@ Billie Eilish: 10 song(s) (2.5%)
 	Happier Than Ever - Edit
 	CHIHIRO
 	BIRDS OF A FEATHER
-Lady Gaga: 10 song(s) (2.5%)
+Lady Gaga: 10 song(s) (2.48%)
 	The Edge of Glory
 	Stupid Love
 	Rain On Me
@@ -99,7 +99,7 @@ Lady Gaga: 10 song(s) (2.5%)
 	Bloody Mary
 	Bad Romance
 	Applause
-Juice WRLD: 8 song(s) (2.0%)
+Juice WRLD: 8 song(s) (1.99%)
 	Wishing Well
 	Robbery
 	Lucid Dreams
@@ -108,7 +108,7 @@ Juice WRLD: 8 song(s) (2.0%)
 	Come & Go
 	Barbarian
 	Armed And Dangerous
-The Weeknd: 7 song(s) (1.75%)
+The Weeknd: 7 song(s) (1.74%)
 	The Hills
 	Take My Breath
 	Save Your Tears
@@ -116,7 +116,7 @@ The Weeknd: 7 song(s) (1.75%)
 	Dancing in the Flames
 	Can't Feel My Face
 	Blinding Lights
-Ariana Grande: 7 song(s) (1.75%)
+Ariana Grande: 7 song(s) (1.74%)
 	yes, and?
 	the boy is mine
 	positions
@@ -124,7 +124,7 @@ Ariana Grande: 7 song(s) (1.75%)
 	Rain On Me
 	Into You
 	Bang Bang
-Nicki Minaj: 7 song(s) (1.75%)
+Nicki Minaj: 7 song(s) (1.74%)
 	Tusa
 	Super Bass
 	Starships
@@ -132,131 +132,135 @@ Nicki Minaj: 7 song(s) (1.75%)
 	FTCU
 	Beauty and a Beat
 	Bang Bang
-Imagine Dragons: 6 song(s) (1.5%)
+Imagine Dragons: 6 song(s) (1.49%)
 	Thunder
 	Radioactive
 	Eyes Closed
 	Demons
 	Bones
 	Believer
-Green Day: 6 song(s) (1.5%)
+Green Day: 6 song(s) (1.49%)
 	When I Come Around
 	Welcome to Paradise
 	Holiday
 	Boulevard of Broken Dreams
 	Basket Case
 	American Idiot
-Karol G: 5 song(s) (1.25%)
+Karol G: 5 song(s) (1.24%)
 	Tusa
 	QLONA
 	PROVENZA (REMIX)
 	OKI DOKI
 	CAIRO
-Fall Out Boy: 4 song(s) (1.0%)
+Fall Out Boy: 4 song(s) (0.99%)
 	This Ain't A Scene, It's An Arms Race
 	Sugar, We're Goin Down
 	My Songs Know What You Did In The Dark (Light Em Up)
 	Centuries
-Doja Cat: 4 song(s) (1.0%)
+Doja Cat: 4 song(s) (0.99%)
 	Woman
 	Say So
 	Paint The Town Red
 	Kiss Me More
-Snoop Dogg: 4 song(s) (1.0%)
+Snoop Dogg: 4 song(s) (0.99%)
 	Young, Wild & Free
 	Drop It Like It's Hot
 	Beautiful
 	All I Do Is Win
-Hatsune Miku: 4 song(s) (1.0%)
+Hatsune Miku: 4 song(s) (0.99%)
 	World Is Mine
 	Miku
 	M@GICAL☆CURE! LOVE SHOT!
 	Daisy 2.0
-Weezer: 3 song(s) (0.75%)
+Weezer: 3 song(s) (0.74%)
 	Undone - The Sweater Song
 	Say It Ain't So
 	Buddy Holly
-mgk: 3 song(s) (0.75%)
+mgk: 3 song(s) (0.74%)
 	my ex's best friend
 	emo girl
 	I Think I'm OKAY
-Kendrick Lamar: 3 song(s) (0.75%)
+Kendrick Lamar: 3 song(s) (0.74%)
 	i
 	HUMBLE.
 	All The Stars
-WitchGang: 3 song(s) (0.75%)
+WitchGang: 3 song(s) (0.74%)
 	Timeless
 	Runaway
 	Nothing's Alright
-Nine Inch Nails: 3 song(s) (0.75%)
+Nine Inch Nails: 3 song(s) (0.74%)
 	The Hand That Feeds
 	March Of The Pigs
 	Less Than
-Olivia Rodrigo: 3 song(s) (0.75%)
+Olivia Rodrigo: 3 song(s) (0.74%)
 	vampire
 	good 4 u
 	get him back!
-U2: 3 song(s) (0.75%)
+U2: 3 song(s) (0.74%)
 	With Or Without You
 	I Still Haven't Found What I'm Looking For
 	Beautiful Day
-Britney Spears: 3 song(s) (0.75%)
+Britney Spears: 3 song(s) (0.74%)
 	Work Work
 	Toxic
 	Hold Me Closer
-blink-182: 3 song(s) (0.75%)
+blink-182: 3 song(s) (0.74%)
 	YOU DON'T KNOW WHAT YOU'VE GOT
 	What's My Age Again?
 	All The Small Things
-Jack Harlow: 3 song(s) (0.75%)
+Jack Harlow: 3 song(s) (0.74%)
 	WHATS POPPIN
 	Lovin On Me
 	Industry Baby
-Marshmello: 3 song(s) (0.75%)
+Marshmello: 3 song(s) (0.74%)
 	Wolves
 	Spies! (Marshmello Remix)
 	Come & Go
-Ice Spice: 3 song(s) (0.75%)
+Ice Spice: 3 song(s) (0.74%)
 	Oh Shhh...
 	In Ha Mood
 	Boy's A Liar Pt. 2
-Sean Paul: 3 song(s) (0.75%)
+Sean Paul: 3 song(s) (0.74%)
 	Gimme The Light
 	Get Busy
 	Cheap Thrills
-Twenty One Pilots: 3 song(s) (0.75%)
+Twenty One Pilots: 3 song(s) (0.74%)
 	Stressed Out
 	Next Semester
 	Heathens
-Post Malone: 3 song(s) (0.75%)
+Post Malone: 3 song(s) (0.74%)
 	I Had Some Help
 	Circles
 	Better Now
-Bruno Mars: 3 song(s) (0.75%)
+Pitbull: 3 song(s) (0.74%)
+	On The Floor
+	Give Me Everything
+	Fireball 
+Bruno Mars: 3 song(s) (0.74%)
 	Young, Wild & Free
 	Uptown Funk
 	24K Magic
-Guns N' Roses: 3 song(s) (0.75%)
+Guns N' Roses: 3 song(s) (0.74%)
 	Welcome To The Jungle
 	Sweet Child O' Mine
 	Paradise City
-Justin Bieber: 3 song(s) (0.75%)
+Justin Bieber: 3 song(s) (0.74%)
 	What Do You Mean?
 	Ghost
 	Beauty and a Beat
-The Notorious B.I.G.: 3 song(s) (0.75%)
+The Notorious B.I.G.: 3 song(s) (0.74%)
 	Notorious Thugs
 	Juicy
 	Big Poppa
-Murda Beatz: 3 song(s) (0.75%)
+Murda Beatz: 3 song(s) (0.74%)
 	Spies! (Murda Beatz Remix)
 	Limitless (Murda Beatz Remix)
 	Bunny Bounce (Murda Beatz Remix)
-Flo Rida: 3 song(s) (0.75%)
+Flo Rida: 3 song(s) (0.74%)
 	Wild Ones
 	Right Round
 	My House
-Red Hot Chili Peppers: 3 song(s) (0.75%)
+Red Hot Chili Peppers: 3 song(s) (0.74%)
 	Snow (Hey Oh)
 	Give It Away
 	Californication
@@ -269,6 +273,9 @@ The Killers: 2 song(s) (0.5%)
 LMFAO: 2 song(s) (0.5%)
 	Sexy And I Know It
 	Party Rock Anthem
+The White Stripes: 2 song(s) (0.5%)
+	Seven Nation Army
+	Fell In Love With A Girl
 NF: 2 song(s) (0.5%)
 	The Search
 	Let You Down
@@ -338,9 +345,6 @@ SZA: 2 song(s) (0.5%)
 Avenged Sevenfold: 2 song(s) (0.5%)
 	Nightmare
 	Hail To The King
-Pitbull: 2 song(s) (0.5%)
-	Give Me Everything
-	Fireball 
 Afrojack: 2 song(s) (0.5%)
 	Take Over Control
 	Give Me Everything
@@ -374,6 +378,9 @@ Lil Nas X: 2 song(s) (0.5%)
 Pharrell: 2 song(s) (0.5%)
 	Drop It Like It's Hot
 	Beautiful
+Jennifer Lopez: 2 song(s) (0.5%)
+	On The Floor
+	Love Don't Cost A Thing
 DNCE: 1 song(s) (0.25%)
 	Cake By The Ocean
 OneRepublic: 1 song(s) (0.25%)
@@ -398,8 +405,6 @@ GoonRock: 1 song(s) (0.25%)
 	Party Rock Anthem
 Bell Biv DeVoe: 1 song(s) (0.25%)
 	Poison
-The White Stripes: 1 song(s) (0.25%)
-	Seven Nation Army
 KT Tunstall: 1 song(s) (0.25%)
 	Suddenly I See
 The Cranberries: 1 song(s) (0.25%)
@@ -752,8 +757,6 @@ Cake: 1 song(s) (0.25%)
 	Short Skirt/Long Jacket
 Ashnikko: 1 song(s) (0.25%)
 	Daisy 2.0
-Jennifer Lopez: 1 song(s) (0.25%)
-	Love Don't Cost A Thing
 Anamanaguchi: 1 song(s) (0.25%)
 	Miku
 ryo (supercell): 1 song(s) (0.25%)
@@ -770,3 +773,5 @@ Gotye: 1 song(s) (0.25%)
 	Somebody That I Used To Know
 Kimbra: 1 song(s) (0.25%)
 	Somebody That I Used To Know
+Shop Boyz: 1 song(s) (0.25%)
+	Party Like A Rock Star
