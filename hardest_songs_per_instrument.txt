@@ -41,6 +41,8 @@ Vocals
 	All I Want For Christmas Is You (5)
 	M@GICAL☆CURE! LOVE SHOT! (5)
 	No Scrubs (5)
+	Yoru Ni Kakeru (5)
+	IDOL (5)
 Guitar
 	Highway Tune (5)
 	Welcome to Paradise (5)
@@ -88,6 +90,8 @@ Guitar
 	Dancing in the Flames (5)
 	Snow (Hey Oh) (5)
 	M@GICAL☆CURE! LOVE SHOT! (6)
+	Yoru Ni Kakeru (6)
+	IDOL (5)
 Bass
 	i (6)
 	Welcome to Paradise (5)
@@ -103,6 +107,7 @@ Bass
 	Paradise City (5)
 	Nightmare (6)
 	The Brave (5)
+	Yoru Ni Kakeru (5)
 Drums
 	i (5)
 	Mr. Brightside (5)
@@ -149,3 +154,6 @@ Drums
 	Dexting (5)
 	World Is Mine (5)
 	M@GICAL☆CURE! LOVE SHOT! (5)
+	Overcompensate (5)
+	Yoru Ni Kakeru (5)
+	IDOL (6)
